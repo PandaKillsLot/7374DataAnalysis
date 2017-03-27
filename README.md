@@ -1,5 +1,9 @@
 # 7374DataAnalysisSpring17
 assignments for DataAnalysis4Python_Spring17
+Assignment 2 Comments:
+-> Could not find data in folder and code to creaate folder structure.
+->Do not print all text anwyhere. Make sure code is readable.
+</br>
 Assignment 1 Comments:
 ->Q1- Its instructed not to remove punctuation
 ->Q2-Notice that when word not in collection, you have to assign value of 1 and not 0(Reduces the character count by 1)
