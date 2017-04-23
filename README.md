@@ -11,4 +11,4 @@ Assignment 1 Comments:
 ->Q3- Have to check 'JACK SPARROW'. Number of lines is incorrect
 ->Q4-Check for user 121. Count age group of 20s, 30s age group 
 ->Q5-Please check answer(Take top 50 words of each, then check which of those in shakespeare not in the other file)
-![Alt text](/path/to/ana_1_type_distribution.png)
+![Alt text](https://github.com/PandaKillsLot/7374DataAnalysisSpring17/blob/master/ana_1_type_distribution.png)
