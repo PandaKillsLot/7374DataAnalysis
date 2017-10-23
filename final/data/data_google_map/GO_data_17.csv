@@ -1,0 +1,101 @@
+,pokemonId,latitude,longitude,appearedLocalTime,appearedTimeOfDay,city,continent,weather,population_density,urban,suburban,midurban,neigbour
+1942,111,39.804838000000004,-105.210476,2016-09-08T01:55:54,night,Denver,America,Clear,172.27428999999998,False,False,False,Golden，Jefferson County
+1943,52,29.285051,-94.78934699999999,2016-09-08T01:55:48,night,Chicago,America,Clear,0.0,False,False,False,Galveston County，Texas
+1944,19,41.726688,-88.25802,2016-09-08T01:55:48,night,Chicago,America,Drizzle,913.3346,True,True,True,Naperville Township，DuPage County
+1945,10,44.461760999999996,-73.206944,2016-09-08T01:55:45,night,New_York,America,PartlyCloudy,591.0899,False,True,True,Burlington，Chittenden County
+1946,16,33.313765999999994,-112.052527,2016-09-08T01:55:45,night,Phoenix,America,Clear,635.5498,False,True,True,Phoenix，Maricopa County
+1947,16,39.414235,-77.4221,2016-09-08T01:55:44,night,New_York,America,Clear,849.4422599999999,True,True,True,Frederick County，Maryland
+1948,37,42.355776,-71.066073,2016-09-08T01:55:44,night,New_York,America,Clear,5597.982,True,True,True,Boston，Suffolk County
+1949,16,33.552863,-84.349974,2016-09-08T01:55:42,night,New_York,America,Clear,1018.2959599999999,True,True,True,Clayton County，Georgia
+1950,16,42.272752000000004,-87.871662,2016-09-08T01:55:42,night,Chicago,America,Clear,475.51624000000004,False,True,True,Shields Township，Lake County
+1951,46,34.111228999999994,-117.944076,2016-09-08T01:55:41,night,Los_Angeles,America,Clear,683.3539,False,True,True,California，United States
+1952,41,44.45982,-73.207808,2016-09-08T01:55:40,night,New_York,America,PartlyCloudy,591.0899,False,True,True,Burlington，Chittenden County
+1953,19,29.94485,-90.13359399999999,2016-09-08T01:55:39,night,Chicago,America,Clear,982.0328,True,True,True,New Orleans，Orleans Parish
+1954,133,39.418828999999995,-77.421114,2016-09-08T01:55:39,night,New_York,America,Clear,849.4422599999999,True,True,True,"2, Frederick，Frederick County"
+1955,96,49.157008000000005,-123.01913200000001,2016-09-08T01:55:35,night,Vancouver,America,Clear,1177.243,True,True,True,Greater Vancouver，British Columbia
+1956,16,42.355328,-71.061709,2016-09-08T01:55:34,night,New_York,America,Clear,5597.982,True,True,True,Boston，Suffolk County
+1957,19,42.355574,-71.06793,2016-09-08T01:55:34,night,New_York,America,Clear,5597.982,True,True,True,Suffolk County，Massachusetts
+1959,16,29.557724,-95.66416,2016-09-08T01:55:31,night,Chicago,America,Clear,382.54028,False,False,True,Sugar Land，Fort Bend County
+1960,63,40.078746,-104.80447,2016-09-08T01:55:27,night,Denver,America,Clear,72.15521,False,False,False,Weld County，Colorado
+1961,74,25.727342,-100.382645,2016-09-08T01:55:23,night,Monterrey,America,Clear,2521.0115,True,True,True,Monterrey，Monterrey
+1962,19,20.52411,-97.462266,2016-09-08T01:55:19,night,Mexico_City,America,Clear,2431.2341,True,True,True,Poza Rica，Poza Rica
+1963,54,29.285133000000002,-94.78959,2016-09-08T01:55:19,night,Chicago,America,Clear,0.0,False,False,False,Galveston County，Texas
+1964,133,41.729401,-88.25224,2016-09-08T01:55:17,night,Chicago,America,Drizzle,913.3346,True,True,True,Naperville Township，DuPage County
+1965,128,42.351227,-71.064216,2016-09-08T01:55:15,night,New_York,America,Clear,5597.982,True,True,True,Boston，Suffolk County
+1966,13,29.944036999999998,-90.134179,2016-09-08T01:55:15,night,Chicago,America,Clear,982.0328,True,True,True,New Orleans，Orleans Parish
+1967,20,42.35617,-71.06403,2016-09-08T01:55:15,night,New_York,America,Clear,5597.982,True,True,True,Suffolk County，Massachusetts
+1968,10,44.473496000000004,-73.214108,2016-09-08T01:55:13,night,New_York,America,PartlyCloudy,591.0899,False,True,True,Burlington，Chittenden County
+1969,58,25.963945000000002,-97.50903000000001,2016-09-08T01:55:12,night,Chicago,America,Clear,111.49209599999999,False,False,False,Cameron County，Texas
+1970,16,29.285139,-94.789428,2016-09-08T01:55:03,night,Chicago,America,Clear,0.0,False,False,False,Galveston County，Texas
+1971,43,20.525554,-97.4588,2016-09-08T01:55:01,night,Mexico_City,America,Clear,2431.2341,True,True,True,Poza Rica，Poza Rica
+1972,60,29.287452000000002,-94.790561,2016-09-08T01:55:00,night,Chicago,America,Clear,0.0,False,False,False,Galveston County，Texas
+1973,48,39.650232,-77.705636,2016-09-08T01:54:58,night,New_York,America,Clear,1463.3706,True,True,True,"21, Hagerstown，Washington County"
+1974,16,29.945483000000003,-90.133521,2016-09-08T01:54:52,night,Chicago,America,Clear,982.0328,True,True,True,New Orleans，Orleans Parish
+1975,92,42.35286,-71.065516,2016-09-08T01:54:50,night,New_York,America,Clear,5597.982,True,True,True,Suffolk County，Massachusetts
+1976,13,42.354785,-71.06505200000001,2016-09-08T01:54:49,night,New_York,America,Clear,5597.982,True,True,True,Suffolk County，Massachusetts
+1977,16,33.554896,-84.348659,2016-09-08T01:54:49,night,New_York,America,Clear,1018.2959599999999,True,True,True,Georgia，United States
+1979,16,29.549651,-95.669255,2016-09-08T01:54:48,night,Chicago,America,Clear,382.54028,False,False,True,Sugar Land，Fort Bend County
+1980,74,33.31277,-112.05429699999999,2016-09-08T01:54:47,night,Phoenix,America,Clear,635.5498,False,True,True,Phoenix，Maricopa County
+1981,35,20.521765,-97.45009399999999,2016-09-08T01:54:47,night,Mexico_City,America,Clear,2431.2341,True,True,True,Poza Rica，Poza Rica
+1982,14,39.416182,-77.4195,2016-09-08T01:54:45,night,New_York,America,Clear,849.4422599999999,True,True,True,"2, Frederick，Frederick County"
+1983,13,44.477946,-73.213679,2016-09-08T01:54:45,night,New_York,America,PartlyCloudy,591.0899,False,True,True,Burlington，Chittenden County
+1984,16,37.190805,-93.289135,2016-09-08T01:54:44,night,Chicago,America,Clear,426.5022,False,True,True,Springfield，Springfield Township
+1985,17,41.725441,-88.257791,2016-09-08T01:54:44,night,Chicago,America,Drizzle,913.3346,True,True,True,Naperville Township，DuPage County
+1986,19,41.723867,-88.256575,2016-09-08T01:54:42,night,Chicago,America,Drizzle,913.3346,True,True,True,Wheatland Township，Will County
+1987,19,29.553318,-95.670077,2016-09-08T01:54:39,night,Chicago,America,Clear,382.54028,False,False,True,Sugar Land，Fort Bend County
+1988,111,39.804023,-105.208922,2016-09-08T01:54:38,night,Denver,America,Clear,172.27428999999998,False,False,False,Golden，Jefferson County
+1989,133,25.725343,-100.379925,2016-09-08T01:54:38,night,Monterrey,America,Clear,2521.0115,True,True,True,Monterrey，Monterrey
+1990,23,34.111086,-117.94270300000001,2016-09-08T01:54:35,night,Los_Angeles,America,Clear,683.3539,False,True,True,California，United States
+1991,41,42.353466999999995,-71.061245,2016-09-08T01:54:33,night,New_York,America,Clear,5597.982,True,True,True,Boston，Suffolk County
+1992,16,33.304321,-111.842373,2016-09-08T01:54:31,night,Phoenix,America,Clear,2180.6335,True,True,True,Maricopa County，Arizona
+1993,1,34.111755,-117.935106,2016-09-08T01:54:27,night,Los_Angeles,America,Clear,683.3539,False,True,True,Los Angeles County，California
+1994,17,26.547928000000002,-80.077196,2016-09-08T01:54:23,night,New_York,America,Clear,1517.408,True,True,True,Palm Beach County，Florida
+1995,19,39.644727,-77.70617299999999,2016-09-08T01:54:16,night,New_York,America,Clear,1463.3706,True,True,True,"22, Hagerstown，Washington County"
+1996,19,29.941959999999998,-90.132351,2016-09-08T01:54:11,night,Chicago,America,Clear,982.0328,True,True,True,New Orleans，Orleans Parish
+1997,17,20.526124,-97.462773,2016-09-08T01:54:09,night,Mexico_City,America,Clear,2431.2341,True,True,True,Poza Rica，Poza Rica
+1999,43,42.25452,-87.872505,2016-09-08T01:54:07,night,Chicago,America,Clear,475.51624000000004,False,True,True,Shields Township，Lake County
+2000,16,20.529235,-97.461421,2016-09-08T01:54:06,night,Mexico_City,America,Clear,2431.2341,True,True,True,Poza Rica，Veracruz
+2001,16,29.554423999999997,-95.66530999999999,2016-09-08T01:54:04,night,Chicago,America,Clear,382.54028,False,False,True,Texas，United States
+2002,19,19.256452,-99.605561,2016-09-08T01:54:04,night,Mexico_City,America,Clear,2102.9775,True,True,True,Metepec，Metepec
+2003,16,19.252788,-99.60704,2016-09-08T01:54:03,night,Mexico_City,America,Clear,2102.9775,True,True,True,Metepec，Metepec
+2004,81,40.079278,-104.80219,2016-09-08T01:53:52,night,Denver,America,Clear,72.15521,False,False,False,Weld County，Colorado
+2005,74,20.526587,-97.458462,2016-09-08T01:53:50,night,Mexico_City,America,Clear,2431.2341,True,True,True,Poza Rica，Poza Rica
+2006,21,20.434587,-97.321827,2016-09-08T01:53:47,night,Mexico_City,America,Clear,178.6358,False,False,False,Papantla，Veracruz
+2007,21,41.775381,-72.719368,2016-09-08T01:53:47,night,New_York,America,Clear,1312.533,True,True,True,Hartford County，Connecticut
+2008,13,39.650240000000004,-77.70867700000001,2016-09-08T01:53:43,night,New_York,America,Clear,1463.3706,True,True,True,"21, Hagerstown，Washington County"
+2009,133,20.535871,-97.455588,2016-09-08T01:53:40,night,Mexico_City,America,Clear,2431.2341,True,True,True,Poza Rica，Poza Rica
+2010,84,25.965581,-97.50581600000001,2016-09-08T01:53:37,night,Chicago,America,Clear,111.49209599999999,False,False,False,Cameron County，Texas
+2012,19,42.250184999999995,-87.871278,2016-09-08T01:53:35,night,Chicago,America,Clear,475.51624000000004,False,True,True,Shields Township，Lake County
+2013,129,29.290328999999996,-94.788619,2016-09-08T01:53:34,night,Chicago,America,Clear,0.0,False,False,False,Galveston County，Texas
+2015,16,42.252433,-87.867903,2016-09-08T01:53:29,night,Chicago,America,Clear,475.51624000000004,False,True,True,Shields Township，Lake County
+2016,16,26.547758,-80.07737,2016-09-08T01:53:28,night,New_York,America,Clear,1517.408,True,True,True,Palm Beach County，Florida
+2017,133,20.526405,-97.458378,2016-09-08T01:53:27,night,Mexico_City,America,Clear,2431.2341,True,True,True,Poza Rica，Veracruz
+2018,41,20.43853,-97.320477,2016-09-08T01:53:27,night,Mexico_City,America,Clear,178.6358,False,False,False,Papantla de Olarte，Papantla
+2019,19,20.52577,-97.460237,2016-09-08T01:53:25,night,Mexico_City,America,Clear,2431.2341,True,True,True,Poza Rica，Poza Rica
+2020,10,29.937486,-90.07719499999999,2016-09-08T01:53:25,night,Chicago,America,Clear,1955.8636,True,True,True,New Orleans，Orleans Parish
+2021,123,39.415284,-77.420038,2016-09-08T01:53:24,night,New_York,America,Clear,849.4422599999999,True,True,True,"2, Frederick，Frederick County"
+2022,16,49.157625,-123.016663,2016-09-08T01:53:22,night,Vancouver,America,Clear,1177.243,True,True,True,Greater Vancouver，British Columbia
+2023,16,25.726475,-100.38071500000001,2016-09-08T01:53:20,night,Monterrey,America,Clear,2521.0115,True,True,True,Monterrey，Nuevo León
+2024,138,34.110748,-117.941147,2016-09-08T01:53:20,night,Los_Angeles,America,Clear,683.3539,False,True,True,California，United States
+2025,13,29.286329,-94.794122,2016-09-08T01:53:19,night,Chicago,America,Clear,0.0,False,False,False,Galveston County，Texas
+2026,19,33.419815,-111.93478300000001,2016-09-08T01:53:19,night,Phoenix,America,Clear,1411.2576,True,True,True,Maricopa County，Arizona
+2027,16,42.352101,-71.066723,2016-09-08T01:53:16,night,New_York,America,Clear,5597.982,True,True,True,Boston，Suffolk County
+2028,21,29.937577,-90.07595400000001,2016-09-08T01:53:14,night,Chicago,America,Clear,1955.8636,True,True,True,New Orleans，Orleans Parish
+2029,48,37.191034,-93.28992099999999,2016-09-08T01:53:12,night,Chicago,America,Clear,426.5022,False,True,True,Springfield，Springfield Township
+2030,17,29.555181,-95.666625,2016-09-08T01:53:04,night,Chicago,America,Clear,382.54028,False,False,True,Fort Bend County，Texas
+2031,72,29.290251,-94.79080400000001,2016-09-08T01:53:04,night,Chicago,America,Clear,0.0,False,False,False,Galveston County，Texas
+2032,35,20.527098000000002,-97.459477,2016-09-08T01:52:58,night,Mexico_City,America,Clear,2431.2341,True,True,True,Poza Rica，Poza Rica
+2033,43,42.355463,-71.06728000000001,2016-09-08T01:52:56,night,New_York,America,Clear,5597.982,True,True,True,Suffolk County，Massachusetts
+2036,133,25.964181,-97.509792,2016-09-08T01:52:51,night,Chicago,America,Clear,111.49209599999999,False,False,False,Cameron County，Texas
+2037,23,25.724864,-100.37895999999999,2016-09-08T01:52:50,night,Monterrey,America,Clear,2521.0115,True,True,True,Monterrey，Monterrey
+2038,16,19.252894,-99.608518,2016-09-08T01:52:50,night,Mexico_City,America,Clear,2102.9775,True,True,True,Metepec，Metepec
+2039,69,39.415615,-77.418693,2016-09-08T01:52:48,night,New_York,America,Clear,849.4422599999999,True,True,True,"2, Frederick，Frederick County"
+2040,19,25.965791,-97.505308,2016-09-08T01:52:44,night,Chicago,America,Clear,111.49209599999999,False,False,False,Cameron County，Texas
+2041,90,29.288033000000002,-94.789509,2016-09-08T01:52:41,night,Chicago,America,Clear,0.0,False,False,False,Galveston County，Texas
+2042,19,41.726907000000004,-88.251936,2016-09-08T01:52:38,night,Chicago,America,Drizzle,913.3346,True,True,True,Naperville Township，DuPage County
+2043,16,33.556527,-84.353835,2016-09-08T01:52:35,night,New_York,America,Clear,1018.2959599999999,True,True,True,Clayton County，Georgia
+2044,60,33.557358,-84.352932,2016-09-08T01:52:31,night,New_York,America,Clear,1018.2959599999999,True,True,True,Clayton County，Georgia
+2045,16,42.354918,-71.064959,2016-09-08T01:52:30,night,New_York,America,Clear,5597.982,True,True,True,Massachusetts，United States
+2046,23,34.198157,-118.496478,2016-09-08T01:52:29,night,Los_Angeles,America,Clear,2431.2341,True,True,True,Los Angeles，Los Angeles County
+2047,16,29.557369,-95.668269,2016-09-08T01:52:27,night,Chicago,America,Clear,382.54028,False,False,True,Sugar Land，Fort Bend County
+2048,120,39.806658,-105.210385,2016-09-08T01:52:21,night,Denver,America,Clear,172.27428999999998,False,False,False,Colorado，United States

@@ -1,0 +1,101 @@
+,pokemonId,latitude,longitude,appearedLocalTime,appearedTimeOfDay,city,continent,weather,population_density,urban,suburban,midurban,neigbour
+449,19,20.52818,-97.460153,2016-09-08T02:42:32,night,Mexico_City,America,Foggy,2431.2341,True,True,True,Poza Rica，Poza Rica
+450,16,42.327465000000004,-71.58292,2016-09-08T02:42:13,night,New_York,America,Clear,880.8093,True,True,True,Middlesex County，Massachusetts
+451,120,33.313253,-112.05438999999998,2016-09-08T02:42:03,night,Phoenix,America,Clear,635.5498,False,True,True,Phoenix，Maricopa County
+452,13,42.32778,-71.583476,2016-09-08T02:41:32,night,New_York,America,Clear,880.8093,True,True,True,Middlesex County，Massachusetts
+453,19,34.112697,-117.941696,2016-09-08T02:41:10,night,Los_Angeles,America,Clear,683.3539,False,True,True,California，United States
+454,100,34.05194,-118.245124,2016-09-08T02:41:02,night,Los_Angeles,America,PartlyCloudy,3895.3920000000003,True,True,True,Los Angeles，Los Angeles County
+455,4,53.608622,-113.446275,2016-09-08T02:40:47,night,Edmonton,America,Clear,761.8856,False,True,True,Edmonton，Division No. 11
+456,43,20.525489,-97.46032199999999,2016-09-08T02:40:22,night,Mexico_City,America,Foggy,2431.2341,True,True,True,Poza Rica，Poza Rica
+457,133,33.617441,-111.73682600000001,2016-09-08T02:39:45,night,Phoenix,America,Clear,172.27428999999998,False,False,False,Maricopa County，Arizona
+458,63,33.314513,-112.05299299999999,2016-09-08T02:39:40,night,Phoenix,America,Clear,635.5498,False,True,True,Phoenix，Maricopa County
+459,16,36.134376,-79.910393,2016-09-08T02:39:24,night,New_York,America,PartlyCloudy,296.7843,False,False,True,Friendship，Guilford County
+460,19,30.116421999999996,-91.04271700000001,2016-09-08T02:39:19,night,Chicago,America,Clear,10.948889999999999,False,False,False,Ascension Parish，Louisiana
+463,19,33.555144,-84.352192,2016-09-08T02:38:33,night,New_York,America,Clear,1018.2959599999999,True,True,True,Clayton County，Georgia
+464,19,32.913162,-97.325624,2016-09-08T02:38:20,night,Chicago,America,Clear,69.58565,False,False,False,Texas，United States
+465,46,26.232498,-98.191356,2016-09-08T02:38:19,night,Chicago,America,Clear,849.4422599999999,True,True,True,Hidalgo County，Texas
+466,77,33.314343,-112.053459,2016-09-08T02:38:03,night,Phoenix,America,Clear,635.5498,False,True,True,Phoenix，Maricopa County
+470,96,53.60698299999999,-113.452025,2016-09-08T02:37:55,night,Edmonton,America,PartlyCloudy,761.8856,False,True,True,Edmonton，Division No. 11
+471,16,25.725586,-100.380364,2016-09-08T02:37:40,night,Monterrey,America,Clear,2521.0115,True,True,True,Monterrey，Nuevo León
+472,74,25.725195000000003,-100.37817,2016-09-08T02:37:33,night,Monterrey,America,Clear,2521.0115,True,True,True,Monterrey，Monterrey
+473,43,38.794151,-76.98505300000001,2016-09-08T02:37:31,night,New_York,America,PartlyCloudy,214.14536,False,False,True,"12, Oxon Hill，Prince George's County"
+474,21,53.609928000000004,-113.441699,2016-09-08T02:37:24,night,Edmonton,America,Clear,761.8856,False,True,True,Edmonton，Division No. 11
+475,16,39.416317,-77.42219,2016-09-08T02:37:20,night,New_York,America,Clear,849.4422599999999,True,True,True,"2, Frederick，Frederick County"
+476,133,33.61322,-111.7045,2016-09-08T02:37:12,night,Phoenix,America,Clear,172.27428999999998,False,False,False,Maricopa County，Arizona
+477,98,41.726753,-88.252012,2016-09-08T02:37:11,night,Chicago,America,Clear,913.3346,True,True,True,Naperville Township，DuPage County
+478,74,33.618108,-111.73682600000001,2016-09-08T02:37:06,night,Phoenix,America,Clear,172.27428999999998,False,False,False,Maricopa County，Arizona
+479,16,29.963786,-90.061503,2016-09-08T02:37:04,night,Chicago,America,Clear,1955.8636,True,True,True,New Orleans，Orleans Parish
+480,21,53.609547,-113.448296,2016-09-08T02:36:45,night,Edmonton,America,Clear,761.8856,False,True,True,Edmonton，Division No. 11
+481,4,37.355894,-120.608528,2016-09-08T02:36:44,night,Los_Angeles,America,Clear,330.89105,False,False,True,Merced County，California
+483,113,33.618072999999995,-111.73701200000001,2016-09-08T02:36:40,night,Phoenix,America,Clear,172.27428999999998,False,False,False,Maricopa County，Arizona
+484,16,32.91127,-97.32503299999999,2016-09-08T02:36:34,night,Chicago,America,Clear,69.58565,False,False,False,Tarrant County，Texas
+485,16,32.908901,-97.323599,2016-09-08T02:36:31,night,Chicago,America,Clear,69.58565,False,False,False,Tarrant County，Texas
+486,16,33.31451,-112.053459,2016-09-08T02:36:30,night,Phoenix,America,Clear,635.5498,False,True,True,Phoenix，Maricopa County
+487,10,41.727312,-88.258096,2016-09-08T02:36:21,night,Chicago,America,Clear,913.3346,True,True,True,Naperville Township，DuPage County
+488,44,30.04252,-90.238136,2016-09-08T02:36:14,night,Chicago,America,Clear,0.0,False,False,False,Jefferson Parish，Louisiana
+489,19,41.727971000000004,-88.260529,2016-09-08T02:36:14,night,Chicago,America,Clear,913.3346,True,True,True,Naperville Township，DuPage County
+490,54,39.415304,-77.42021700000001,2016-09-08T02:36:09,night,New_York,America,Clear,849.4422599999999,True,True,True,"2, Frederick，Frederick County"
+491,120,30.041712,-90.235863,2016-09-08T02:35:53,night,Chicago,America,Clear,0.0,False,False,False,4，Jefferson Parish
+492,10,29.966676,-90.062525,2016-09-08T02:35:50,night,Chicago,America,Clear,1955.8636,True,True,True,New Orleans，Orleans Parish
+493,4,53.607677,-113.449109,2016-09-08T02:35:50,night,Edmonton,America,PartlyCloudy,761.8856,False,True,True,Edmonton，Division No. 11
+494,46,38.796203999999996,-76.979743,2016-09-08T02:35:48,night,New_York,America,PartlyCloudy,214.14536,False,False,True,"12, Oxon Hill，Prince George's County"
+495,18,53.608888,-113.44888,2016-09-08T02:35:47,night,Edmonton,America,Clear,761.8856,False,True,True,Edmonton，Division No. 11
+497,10,39.416151,-77.419948,2016-09-08T02:35:45,night,New_York,America,Clear,849.4422599999999,True,True,True,"2, Frederick，Frederick County"
+498,23,25.725157,-100.378697,2016-09-08T02:35:44,night,Monterrey,America,Clear,2521.0115,True,True,True,Monterrey，Monterrey
+499,104,33.6043,-111.71363000000001,2016-09-08T02:35:42,night,Phoenix,America,Clear,172.27428999999998,False,False,False,Maricopa County，Arizona
+500,56,33.312971000000005,-112.054111,2016-09-08T02:35:34,night,Phoenix,America,Clear,635.5498,False,True,True,Phoenix，Maricopa County
+502,23,25.724961999999998,-100.378872,2016-09-08T02:35:30,night,Monterrey,America,Clear,2521.0115,True,True,True,Monterrey，Monterrey
+503,16,53.60965,-113.447799,2016-09-08T02:35:20,night,Edmonton,America,Clear,761.8856,False,True,True,Edmonton，Division No. 11
+504,133,53.611245,-113.44053100000001,2016-09-08T02:35:19,night,Edmonton,America,Clear,761.8856,False,True,True,Edmonton，Division No. 11
+505,96,53.610978,-113.443982,2016-09-08T02:35:17,night,Edmonton,America,Clear,761.8856,False,True,True,Edmonton，Division No. 11
+507,46,37.357991999999996,-120.60834799999999,2016-09-08T02:35:13,night,Los_Angeles,America,Clear,330.89105,False,False,True,Merced County，California
+508,32,38.794826,-76.978933,2016-09-08T02:35:03,night,New_York,America,PartlyCloudy,214.14536,False,False,True,"12, Oxon Hill，Prince George's County"
+509,54,38.793923,-76.979473,2016-09-08T02:35:01,night,New_York,America,PartlyCloudy,214.14536,False,False,True,"12, Oxon Hill，Prince George's County"
+510,19,29.964419,-90.06011600000001,2016-09-08T02:34:58,night,Chicago,America,Clear,1955.8636,True,True,True,New Orleans，Orleans Parish
+511,133,20.527017999999998,-97.461336,2016-09-08T02:34:58,night,Mexico_City,America,Foggy,2431.2341,True,True,True,Poza Rica，Poza Rica
+512,19,32.909766999999995,-97.323768,2016-09-08T02:34:53,night,Chicago,America,Clear,69.58565,False,False,False,Tarrant County，Texas
+513,48,53.61142099999999,-113.44054299999999,2016-09-08T02:34:49,night,Edmonton,America,Clear,761.8856,False,True,True,Edmonton，Division No. 11
+514,48,29.968571999999998,-90.064787,2016-09-08T02:34:46,night,Chicago,America,Clear,1955.8636,True,True,True,New Orleans，Orleans Parish
+515,66,30.038997,-90.239235,2016-09-08T02:34:43,night,Chicago,America,Clear,0.0,False,False,False,4，Jefferson Parish
+517,19,30.116509000000004,-91.043091,2016-09-08T02:34:40,night,Chicago,America,Clear,10.948889999999999,False,False,False,Ascension Parish，Louisiana
+518,43,42.324852,-71.584218,2016-09-08T02:34:37,night,New_York,America,Clear,880.8093,True,True,True,Middlesex County，Massachusetts
+519,127,42.324465000000004,-71.584125,2016-09-08T02:34:37,night,New_York,America,Clear,880.8093,True,True,True,Middlesex County，Massachusetts
+520,16,29.968844,-90.06405699999999,2016-09-08T02:34:36,night,Chicago,America,Clear,1955.8636,True,True,True,New Orleans，Orleans Parish
+521,63,37.354856,-120.60313400000001,2016-09-08T02:34:36,night,Los_Angeles,America,Clear,330.89105,False,False,True,Merced County，California
+524,133,32.910344,-97.325877,2016-09-08T02:34:22,night,Chicago,America,Clear,69.58565,False,False,False,Tarrant County，Texas
+525,13,41.725924,-88.258932,2016-09-08T02:34:22,night,Chicago,America,Clear,913.3346,True,True,True,Naperville Township，DuPage County
+526,48,39.41762,-77.423176,2016-09-08T02:34:20,night,New_York,America,Clear,849.4422599999999,True,True,True,Frederick County，Maryland
+527,19,53.608869999999996,-113.447239,2016-09-08T02:34:17,night,Edmonton,America,Clear,761.8856,False,True,True,Edmonton，Division No. 11
+528,10,44.490933,-73.183988,2016-09-08T02:34:13,night,New_York,America,Clear,256.71356000000003,False,False,True,Chittenden County，Vermont
+529,16,39.415727000000004,-77.42335600000001,2016-09-08T02:34:11,night,New_York,America,Clear,849.4422599999999,True,True,True,"2, Frederick，Frederick County"
+530,100,33.703124,-78.86644100000001,2016-09-08T02:34:06,night,New_York,America,Clear,511.28308,False,True,True,South Carolina，United States
+532,96,53.610477,-113.44899299999999,2016-09-08T02:34:00,night,Edmonton,America,Clear,761.8856,False,True,True,Edmonton，Division No. 11
+534,19,41.727502,-88.260377,2016-09-08T02:33:49,night,Chicago,America,Clear,913.3346,True,True,True,Naperville Township，DuPage County
+535,13,42.324323,-71.585516,2016-09-08T02:33:45,night,New_York,America,Clear,880.8093,True,True,True,Middlesex County，Massachusetts
+536,69,38.79388,-76.977673,2016-09-08T02:33:43,night,New_York,America,PartlyCloudy,214.14536,False,False,True,"12, Oxon Hill，Prince George's County"
+537,63,37.352470000000004,-120.605651,2016-09-08T02:33:42,night,Los_Angeles,America,Clear,330.89105,False,False,True,Merced County，California
+539,118,30.041892999999998,-90.23535,2016-09-08T02:33:33,night,Chicago,America,Clear,0.0,False,False,False,Jefferson Parish，Louisiana
+540,96,43.708332,-79.393232,2016-09-08T02:33:32,night,Toronto,America,LightRain,4039.2358,True,True,True,Old Toronto，Toronto
+542,29,20.524007,-97.458209,2016-09-08T02:33:25,night,Mexico_City,America,Foggy,2431.2341,True,True,True,Poza Rica，Poza Rica
+544,16,29.553517,-95.667529,2016-09-08T02:33:20,night,Chicago,America,Clear,382.54028,False,False,True,Sugar Land，Fort Bend County
+545,133,20.527231,-97.458547,2016-09-08T02:33:18,night,Mexico_City,America,Foggy,2431.2341,True,True,True,Poza Rica，Poza Rica
+546,96,43.70667,-79.394464,2016-09-08T02:33:17,night,Toronto,America,LightRain,4039.2358,True,True,True,Old Toronto，Toronto
+547,19,19.271883,-99.618086,2016-09-08T02:33:16,night,Mexico_City,America,MostlyCloudy,2102.9775,True,True,True,Metepec，Metepec
+549,96,53.61191899999999,-113.44203,2016-09-08T02:33:07,night,Edmonton,America,Clear,761.8856,False,True,True,Edmonton，Division No. 11
+551,56,26.231787,-98.195797,2016-09-08T02:32:58,night,Chicago,America,Clear,849.4422599999999,True,True,True,Hidalgo County，Texas
+553,92,43.70955,-79.399126,2016-09-08T02:32:56,night,Toronto,America,LightRain,4039.2358,True,True,True,Old Toronto，Toronto
+554,41,30.041983000000002,-90.235936,2016-09-08T02:32:52,night,Chicago,America,Clear,0.0,False,False,False,4，Jefferson Parish
+556,46,25.726204,-100.37939899999999,2016-09-08T02:32:45,night,Monterrey,America,Clear,2521.0115,True,True,True,Monterrey，Nuevo León
+557,72,30.039268,-90.23901500000001,2016-09-08T02:32:42,night,Chicago,America,Clear,0.0,False,False,False,4，Jefferson Parish
+558,19,26.236078000000003,-98.196054,2016-09-08T02:32:42,night,Chicago,America,Clear,849.4422599999999,True,True,True,Hidalgo County，Texas
+559,19,32.91185,-97.324105,2016-09-08T02:32:40,night,Chicago,America,Clear,69.58565,False,False,False,Tarrant County，Texas
+560,129,33.703184,-78.865202,2016-09-08T02:32:39,night,New_York,America,Clear,511.28308,False,True,True,Horry County，South Carolina
+561,129,20.524196,-97.458124,2016-09-08T02:32:38,night,Mexico_City,America,Foggy,2431.2341,True,True,True,Poza Rica，Poza Rica
+562,13,42.325024,-71.585701,2016-09-08T02:32:33,night,New_York,America,Clear,880.8093,True,True,True,Middlesex County，Massachusetts
+563,16,53.614339,-113.442454,2016-09-08T02:32:26,night,Edmonton,America,Clear,761.8856,False,True,True,Edmonton，Division No. 11
+564,63,26.232828,-98.196822,2016-09-08T02:32:20,night,Chicago,America,Clear,849.4422599999999,True,True,True,Hidalgo County，Texas
+565,133,20.526193,-97.456856,2016-09-08T02:32:15,night,Mexico_City,America,Foggy,2431.2341,True,True,True,Poza Rica，Poza Rica
+566,133,44.490176,-73.18485600000001,2016-09-08T02:32:11,night,New_York,America,Clear,256.71356000000003,False,False,True,Chittenden County，Vermont
+568,118,33.703394,-78.864672,2016-09-08T02:32:07,night,New_York,America,Clear,511.28308,False,True,True,Horry County，South Carolina
+569,16,53.61147,-113.446793,2016-09-08T02:32:06,night,Edmonton,America,Clear,761.8856,False,True,True,Edmonton，Division No. 11
+570,16,20.526785999999998,-97.458124,2016-09-08T02:32:03,night,Mexico_City,America,Foggy,2431.2341,True,True,True,Poza Rica，Poza Rica

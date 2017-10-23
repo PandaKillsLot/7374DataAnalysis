@@ -1,0 +1,101 @@
+,pokemonId,latitude,longitude,appearedLocalTime,appearedTimeOfDay,city,continent,weather,population_density,urban,suburban,midurban,neigbour
+2049,77,40.079653,-104.80292,2016-09-08T01:52:19,night,Denver,America,Clear,72.15521,False,False,False,Weld County，Colorado
+2050,19,39.642819,-77.709124,2016-09-08T01:52:17,night,New_York,America,Clear,1463.3706,True,True,True,"22, Hagerstown，Washington County"
+2051,16,40.078790999999995,-104.80292,2016-09-08T01:52:13,night,Denver,America,Clear,72.15521,False,False,False,Weld County，Colorado
+2052,23,34.112131,-117.94041499999999,2016-09-08T01:52:04,night,Los_Angeles,America,Clear,683.3539,False,True,True,California，United States
+2053,74,25.724067,-100.378609,2016-09-08T01:52:02,night,Monterrey,America,Clear,2521.0115,True,True,True,Monterrey，Monterrey
+2054,19,42.197538,-87.91635699999999,2016-09-08T01:52:02,night,Chicago,America,Clear,1754.2621,True,True,True,Vernon Township，Lake County
+2056,16,41.726904,-88.251708,2016-09-08T01:51:51,night,Chicago,America,Drizzle,913.3346,True,True,True,Naperville Township，DuPage County
+2057,20,20.526489,-97.46074499999999,2016-09-08T01:51:50,night,Mexico_City,America,Clear,2431.2341,True,True,True,Poza Rica，Poza Rica
+2058,20,20.526285,-97.461167,2016-09-08T01:51:49,night,Mexico_City,America,Clear,2431.2341,True,True,True,Poza Rica，Poza Rica
+2059,16,25.724392,-100.38299599999999,2016-09-08T01:51:45,night,Monterrey,America,Clear,2521.0115,True,True,True,Monterrey，Monterrey
+2060,16,29.944308000000003,-90.133741,2016-09-08T01:51:43,night,Chicago,America,Clear,982.0328,True,True,True,New Orleans，Orleans Parish
+2061,19,41.580615,-87.794816,2016-09-08T01:51:41,night,Chicago,America,Clear,849.4422599999999,True,True,True,Orland Township，Cook County
+2062,118,19.254006,-99.604866,2016-09-08T01:51:36,night,Mexico_City,America,Clear,2102.9775,True,True,True,Metepec，Metepec
+2063,13,20.526996,-97.461844,2016-09-08T01:51:36,night,Mexico_City,America,Clear,2431.2341,True,True,True,Poza Rica，Poza Rica
+2064,129,20.528401000000002,-97.459308,2016-09-08T01:51:36,night,Mexico_City,America,Clear,2431.2341,True,True,True,Poza Rica，Poza Rica
+2066,19,20.529221,-97.461759,2016-09-08T01:51:31,night,Mexico_City,America,Clear,2431.2341,True,True,True,Poza Rica，Poza Rica
+2068,16,29.937215000000002,-90.076392,2016-09-08T01:51:28,night,Chicago,America,Clear,1955.8636,True,True,True,New Orleans，Orleans Parish
+2069,56,25.963822,-97.509623,2016-09-08T01:51:28,night,Chicago,America,Clear,111.49209599999999,False,False,False,Cameron County，Texas
+2070,35,25.725189999999998,-100.383347,2016-09-08T01:51:20,night,Monterrey,America,Clear,2521.0115,True,True,True,Monterrey，Monterrey
+2071,10,20.52571,-97.459477,2016-09-08T01:51:14,night,Mexico_City,America,Clear,2431.2341,True,True,True,Poza Rica，Poza Rica
+2072,19,25.963511999999998,-97.508523,2016-09-08T01:51:12,night,Chicago,America,Clear,111.49209599999999,False,False,False,Cameron County，Texas
+2073,79,20.434658,-97.317947,2016-09-08T01:51:09,night,Mexico_City,America,Clear,178.6358,False,False,False,Papantla de Olarte，Papantla
+2074,74,25.724798,-100.378609,2016-09-08T01:51:09,night,Monterrey,America,Clear,2521.0115,True,True,True,Monterrey，Monterrey
+2075,43,20.5271,-97.46159,2016-09-08T01:51:09,night,Mexico_City,America,Clear,2431.2341,True,True,True,Poza Rica，Veracruz
+2076,19,39.642739,-77.709124,2016-09-08T01:51:04,night,New_York,America,Clear,1463.3706,True,True,True,"22, Hagerstown，Washington County"
+2077,16,33.3033,-111.839299,2016-09-08T01:51:03,night,Phoenix,America,Clear,2180.6335,True,True,True,Chandler，Maricopa County
+2079,16,25.725847,-100.377995,2016-09-08T01:50:53,night,Monterrey,America,Clear,2521.0115,True,True,True,Monterrey，Monterrey
+2080,7,33.555307,-84.351946,2016-09-08T01:50:52,night,New_York,America,Clear,1018.2959599999999,True,True,True,Clayton County，Georgia
+2081,75,39.804869000000004,-105.21376699999999,2016-09-08T01:50:42,night,Denver,America,Clear,172.27428999999998,False,False,False,Golden，Jefferson County
+2082,7,33.31327,-112.05429699999999,2016-09-08T01:50:37,night,Phoenix,America,Clear,635.5498,False,True,True,Phoenix，Maricopa County
+2083,16,41.727737,-88.255358,2016-09-08T01:50:36,night,Chicago,America,Drizzle,913.3346,True,True,True,Naperville Township，DuPage County
+2084,16,40.078877,-104.803467,2016-09-08T01:50:33,night,Denver,America,Clear,72.15521,False,False,False,Weld County，Colorado
+2085,42,20.524085,-97.458547,2016-09-08T01:50:29,night,Mexico_City,America,Clear,2431.2341,True,True,True,Poza Rica，Poza Rica
+2086,54,20.525117,-97.458209,2016-09-08T01:50:25,night,Mexico_City,America,Clear,2431.2341,True,True,True,Poza Rica，Poza Rica
+2087,133,49.157903000000005,-123.01827800000001,2016-09-08T01:50:17,night,Vancouver,America,Clear,1177.243,True,True,True,Greater Vancouver，British Columbia
+2088,16,29.555198999999998,-95.666214,2016-09-08T01:50:15,night,Chicago,America,Clear,382.54028,False,False,True,Sugar Land，Fort Bend County
+2089,63,20.537605,-97.453982,2016-09-08T01:50:04,night,Mexico_City,America,Clear,2431.2341,True,True,True,Poza Rica，Poza Rica
+2090,41,25.726106,-100.379486,2016-09-08T01:49:56,night,Monterrey,America,Clear,2521.0115,True,True,True,Monterrey，Nuevo León
+2091,56,40.079238000000004,-104.803102,2016-09-08T01:49:56,night,Denver,America,Clear,72.15521,False,False,False,Weld County，Colorado
+2092,133,20.524929999999998,-97.460406,2016-09-08T01:49:53,night,Mexico_City,America,Clear,2431.2341,True,True,True,Poza Rica，Poza Rica
+2094,69,37.195405,-93.289057,2016-09-08T01:49:50,night,Chicago,America,Clear,426.5022,False,True,True,Springfield，Springfield Township
+2095,16,40.078651,-104.805199,2016-09-08T01:49:44,night,Denver,America,Clear,72.15521,False,False,False,Weld County，Colorado
+2096,41,25.727017,-100.380803,2016-09-08T01:49:44,night,Monterrey,America,Clear,2521.0115,True,True,True,Monterrey，Monterrey
+2097,13,41.727312,-88.258096,2016-09-08T01:49:41,night,Chicago,America,Drizzle,913.3346,True,True,True,Naperville Township，DuPage County
+2098,13,41.731190000000005,-88.257411,2016-09-08T01:49:40,night,Chicago,America,Drizzle,913.3346,True,True,True,Naperville Township，DuPage County
+2099,42,25.730575,-100.38089000000001,2016-09-08T01:49:36,night,Monterrey,America,Clear,2521.0115,True,True,True,Monterrey，Monterrey
+2100,16,42.354843,-71.064959,2016-09-08T01:49:30,night,New_York,America,Clear,5597.982,True,True,True,Suffolk County，Massachusetts
+2102,19,39.415824,-77.419141,2016-09-08T01:49:27,night,New_York,America,Clear,849.4422599999999,True,True,True,"2, Frederick，Frederick County"
+2103,13,41.724432,-88.257944,2016-09-08T01:49:25,night,Chicago,America,Drizzle,913.3346,True,True,True,Wheatland Township，Will County
+2107,16,39.804421999999995,-105.209471,2016-09-08T01:49:21,night,Denver,America,Clear,172.27428999999998,False,False,False,Golden，Jefferson County
+2108,13,41.728056,-88.25072,2016-09-08T01:49:20,night,Chicago,America,Drizzle,913.3346,True,True,True,Naperville Township，DuPage County
+2109,13,49.159633,-123.017583,2016-09-08T01:49:18,night,Vancouver,America,Clear,1177.243,True,True,True,Greater Vancouver，British Columbia
+2110,16,25.726087,-100.37975,2016-09-08T01:49:18,night,Monterrey,America,Clear,2521.0115,True,True,True,Monterrey，Nuevo León
+2111,19,41.729989,-88.25513000000001,2016-09-08T01:49:17,night,Chicago,America,Drizzle,913.3346,True,True,True,Naperville Township，DuPage County
+2112,46,37.193954999999995,-93.287091,2016-09-08T01:49:14,night,Chicago,America,Clear,426.5022,False,True,True,Springfield，Springfield Township
+2114,16,26.548133,-80.073616,2016-09-08T01:49:10,night,New_York,America,Clear,1517.408,True,True,True,Palm Beach County，Florida
+2115,16,30.001973,-90.182975,2016-09-08T01:49:08,night,Chicago,America,Clear,0.0,False,False,False,5，Jefferson Parish
+2116,13,41.727899,-88.255814,2016-09-08T01:49:08,night,Chicago,America,Drizzle,913.3346,True,True,True,Naperville Township，DuPage County
+2117,35,20.52696,-97.458378,2016-09-08T01:49:07,night,Mexico_City,America,Clear,2431.2341,True,True,True,Poza Rica，Poza Rica
+2118,16,25.963491,-97.50539300000001,2016-09-08T01:49:06,night,Chicago,America,Clear,111.49209599999999,False,False,False,Cameron County，Texas
+2119,52,41.726831,-88.252012,2016-09-08T01:49:06,night,Chicago,America,Drizzle,913.3346,True,True,True,Naperville Township，DuPage County
+2120,74,39.802954,-105.21221299999999,2016-09-08T01:49:06,night,Denver,America,Clear,172.27428999999998,False,False,False,Golden，Jefferson County
+2121,16,26.548249,-80.073966,2016-09-08T01:49:03,night,New_York,America,Clear,1517.408,True,True,True,Palm Beach County，Florida
+2124,52,46.78734,-71.287017,2016-09-08T01:49:02,night,Montreal,America,Clear,426.5022,False,True,True,Sainte-Foy-Sillery-Cap-Rouge，Ville de Québec
+2126,19,29.551406,-95.666214,2016-09-08T01:49:02,night,Chicago,America,Clear,382.54028,False,False,True,Sugar Land，Fort Bend County
+2127,43,20.525767000000002,-97.46032199999999,2016-09-08T01:49:02,night,Mexico_City,America,Clear,2431.2341,True,True,True,Poza Rica，Poza Rica
+2128,16,38.973849,-77.502863,2016-09-08T01:48:53,night,New_York,America,PartlyCloudy,55.97982,False,False,False,Dulles，Loudoun County
+2129,129,20.533704999999998,-97.441389,2016-09-08T01:48:52,night,Mexico_City,America,Clear,2431.2341,True,True,True,Poza Rica，Poza Rica
+2130,16,29.944940999999996,-90.133083,2016-09-08T01:48:49,night,Chicago,America,Clear,982.0328,True,True,True,New Orleans，Orleans Parish
+2131,16,41.580884000000005,-87.792588,2016-09-08T01:48:49,night,Chicago,America,Clear,849.4422599999999,True,True,True,Bremen Township，Cook County
+2133,54,20.528205,-97.459561,2016-09-08T01:48:39,night,Mexico_City,America,Clear,2431.2341,True,True,True,Poza Rica，Poza Rica
+2134,16,48.608105,-93.39291999999999,2016-09-08T01:48:37,night,Winnipeg,America,Rain,67.10759,False,False,False,Rainy River District，Ontario
+2135,13,41.728026,-88.259008,2016-09-08T01:48:32,night,Chicago,America,Drizzle,913.3346,True,True,True,Naperville Township，DuPage County
+2136,133,44.462394,-73.208201,2016-09-08T01:48:32,night,New_York,America,PartlyCloudy,591.0899,False,True,True,Burlington，Chittenden County
+2137,43,20.527185,-97.461759,2016-09-08T01:48:30,night,Mexico_City,America,Clear,2431.2341,True,True,True,Poza Rica，Veracruz
+2138,13,20.536114,-97.441305,2016-09-08T01:48:27,night,Mexico_City,America,Clear,2431.2341,True,True,True,Poza Rica，Poza Rica
+2139,13,39.416317,-77.42219,2016-09-08T01:48:26,night,New_York,America,Clear,849.4422599999999,True,True,True,"2, Frederick，Frederick County"
+2141,29,44.476168,-73.214649,2016-09-08T01:48:25,night,New_York,America,PartlyCloudy,591.0899,False,True,True,Burlington，Chittenden County
+2142,46,25.726032999999997,-100.379223,2016-09-08T01:48:18,night,Monterrey,America,Clear,2521.0115,True,True,True,Monterrey，Monterrey
+2143,16,25.962511,-97.508354,2016-09-08T01:48:16,night,Chicago,America,Clear,111.49209599999999,False,False,False,Cameron County，Texas
+2144,16,20.537433,-97.455842,2016-09-08T01:48:14,night,Mexico_City,America,Clear,2431.2341,True,True,True,Poza Rica，Poza Rica
+2147,19,19.254285999999997,-99.60477900000001,2016-09-08T01:48:09,night,Mexico_City,America,Clear,2102.9775,True,True,True,Metepec，Metepec
+2149,46,33.420232,-111.93478300000001,2016-09-08T01:48:03,night,Phoenix,America,Clear,1411.2576,True,True,True,Maricopa County，Arizona
+2151,10,41.727967,-88.25513000000001,2016-09-08T01:47:52,night,Chicago,America,Drizzle,913.3346,True,True,True,Naperville Township，DuPage County
+2152,19,39.416415,-77.423087,2016-09-08T01:47:51,night,New_York,America,Clear,849.4422599999999,True,True,True,"2, Frederick，Frederick County"
+2153,29,38.973335999999996,-77.511465,2016-09-08T01:47:48,night,New_York,America,PartlyCloudy,55.97982,False,False,False,Loudoun County，Virginia
+2154,17,41.725804,-88.250948,2016-09-08T01:47:45,night,Chicago,America,Drizzle,913.3346,True,True,True,Naperville Township，DuPage County
+2155,13,41.726999,-88.252849,2016-09-08T01:47:45,night,Chicago,America,Drizzle,913.3346,True,True,True,Naperville Township，DuPage County
+2156,21,38.973618,-77.50295200000001,2016-09-08T01:47:45,night,New_York,America,PartlyCloudy,55.97982,False,False,False,Dulles，Loudoun County
+2157,19,26.547332,-80.076497,2016-09-08T01:47:44,night,New_York,America,Clear,1517.408,True,True,True,Palm Beach County，Florida
+2158,16,39.415434000000005,-77.419948,2016-09-08T01:47:27,night,New_York,America,Clear,849.4422599999999,True,True,True,"2, Frederick，Frederick County"
+2159,133,44.464089,-73.211586,2016-09-08T01:47:23,night,New_York,America,PartlyCloudy,591.0899,False,True,True,Burlington，Chittenden County
+2160,13,41.725724,-88.250796,2016-09-08T01:47:20,night,Chicago,America,Drizzle,913.3346,True,True,True,Naperville Township，DuPage County
+2161,19,38.974737,-77.501429,2016-09-08T01:47:17,night,New_York,America,PartlyCloudy,55.97982,False,False,False,Dulles，Loudoun County
+2163,48,42.251286,-87.872505,2016-09-08T01:47:14,night,Chicago,America,Clear,475.51624000000004,False,True,True,Shields Township，Lake County
+2164,21,44.4589,-73.211028,2016-09-08T01:47:13,night,New_York,America,PartlyCloudy,591.0899,False,True,True,Burlington，Chittenden County
+2165,96,50.7093,-120.402368,2016-09-08T01:47:13,night,Vancouver,America,Clear,206.51928999999998,False,False,True,Kamloops，Thompson-Nicola
+2166,85,30.003689,-90.183048,2016-09-08T01:47:13,night,Chicago,America,Clear,0.0,False,False,False,5，Jefferson Parish
+2167,13,41.070797999999996,-81.4766,2016-09-08T01:47:08,night,New_York,America,Clear,1361.0005,True,True,True,Akron，Summit County
+2168,58,25.724216000000002,-100.382909,2016-09-08T01:47:07,night,Monterrey,America,Clear,2521.0115,True,True,True,Monterrey，Monterrey

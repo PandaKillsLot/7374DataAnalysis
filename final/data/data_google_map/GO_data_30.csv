@@ -1,0 +1,101 @@
+,pokemonId,latitude,longitude,appearedLocalTime,appearedTimeOfDay,city,continent,weather,population_density,urban,suburban,midurban,neigbour
+3528,16,49.264047,-123.1567,2016-09-08T01:13:36,night,Vancouver,America,Clear,4842.1626,True,True,True,Vancouver，Greater Vancouver
+3529,129,43.768527,-79.212379,2016-09-08T01:13:35,night,Toronto,America,LightRain,3249.4587,True,True,True,Scarborough，Toronto
+3530,48,48.609535,-93.386946,2016-09-08T01:13:34,night,Winnipeg,America,Rain,67.10759,False,False,False,Rainy River District，Ontario
+3531,11,37.716163,-122.38898400000001,2016-09-08T01:13:28,night,Los_Angeles,America,Clear,708.5878,False,True,True,San Francisco，San Francisco County
+3532,44,30.141047999999998,-90.934931,2016-09-08T01:13:28,night,Chicago,America,Clear,48.421627,False,False,False,3，Ascension Parish
+3534,69,43.757714,-79.21299599999999,2016-09-08T01:13:28,night,Toronto,America,LightRain,3249.4587,True,True,True,Scarborough，Toronto
+3535,17,32.948997999999996,-97.188161,2016-09-08T01:13:26,night,Chicago,America,Clear,458.58234000000004,False,True,True,Tarrant County，Texas
+3536,10,37.717327000000004,-122.390046,2016-09-08T01:13:26,night,Los_Angeles,America,Clear,708.5878,False,True,True,San Francisco，San Francisco County
+3537,16,44.477432,-73.209785,2016-09-08T01:13:23,night,New_York,America,PartlyCloudy,591.0899,False,True,True,Burlington，Chittenden County
+3538,96,49.247575,-123.146083,2016-09-08T01:13:22,night,Vancouver,America,Clear,4842.1626,True,True,True,Vancouver，Greater Vancouver
+3539,133,32.931979999999996,-97.194728,2016-09-08T01:13:20,night,Chicago,America,Clear,458.58234000000004,False,True,True,Tarrant County，Texas
+3540,16,39.646735,-77.710824,2016-09-08T01:13:20,night,New_York,America,Clear,1463.3706,True,True,True,"22, Hagerstown，Washington County"
+3541,16,39.74273,-84.091756,2016-09-08T01:13:19,night,New_York,America,Clear,570.0402,False,True,True,Beavercreek Township，Greene County
+3542,96,43.769353,-79.214846,2016-09-08T01:13:18,night,Toronto,America,LightRain,3249.4587,True,True,True,Scarborough，Toronto
+3543,13,46.131825,-122.949128,2016-09-08T01:13:17,night,Los_Angeles,America,PartlyCloudy,1055.8982,True,True,True,Cowlitz County，Washington
+3544,10,39.651612,-77.708141,2016-09-08T01:13:16,night,New_York,America,Clear,1463.3706,True,True,True,"21, Hagerstown，Washington County"
+3545,90,43.770317999999996,-79.21255500000001,2016-09-08T01:13:16,night,Toronto,America,LightRain,3249.4587,True,True,True,Scarborough，Toronto
+3546,57,33.614044,-111.70636299999998,2016-09-08T01:13:14,night,Phoenix,America,Clear,172.27428999999998,False,False,False,Maricopa County，Arizona
+3547,46,33.303335,-111.83911200000001,2016-09-08T01:13:14,night,Phoenix,America,Clear,2180.6335,True,True,True,Chandler，Maricopa County
+3548,147,44.478128000000005,-73.21685,2016-09-08T01:13:11,night,New_York,America,PartlyCloudy,591.0899,False,True,True,Burlington，Chittenden County
+3549,27,33.610659999999996,-111.707109,2016-09-08T01:13:11,night,Phoenix,America,Clear,172.27428999999998,False,False,False,Maricopa County，Arizona
+3550,19,29.972718,-90.23395699999999,2016-09-08T01:13:09,night,Chicago,America,PartlyCloudy,570.0402,False,True,True,3，Jefferson Parish
+3551,10,49.826589,-99.963701,2016-09-08T01:13:06,night,Winnipeg,America,LightRain,458.58234000000004,False,True,True,Division No. 7，Manitoba
+3552,46,44.480559,-73.215793,2016-09-08T01:13:05,night,New_York,America,PartlyCloudy,591.0899,False,True,True,Burlington，Chittenden County
+3553,118,37.64868,-122.40358799999998,2016-09-08T01:13:04,night,Los_Angeles,America,Clear,3022.1426,True,True,True,San Mateo County，California
+3554,16,20.478426000000002,-97.450939,2016-09-08T01:13:04,night,Mexico_City,America,Clear,166.13933,False,False,False,Coatzintla，Coatzintla
+3555,16,49.829015999999996,-99.965512,2016-09-08T01:13:03,night,Winnipeg,America,LightRain,458.58234000000004,False,True,True,Division No. 7，Manitoba
+3556,13,49.250633,-123.14431599999999,2016-09-08T01:12:59,night,Vancouver,America,Clear,4842.1626,True,True,True,Vancouver，Greater Vancouver
+3557,19,38.609322,-76.976412,2016-09-08T01:12:54,night,New_York,America,PartlyCloudy,659.01855,False,True,True,"6, Waldorf，Charles County"
+3558,19,41.727734999999996,-88.260377,2016-09-08T01:12:54,night,Chicago,America,Drizzle,913.3346,True,True,True,Naperville Township，DuPage County
+3559,96,43.761562,-79.213789,2016-09-08T01:12:53,night,Toronto,America,LightRain,3249.4587,True,True,True,Scarborough，Toronto
+3560,10,20.477279,-97.443164,2016-09-08T01:12:52,night,Mexico_City,America,Clear,166.13933,False,False,False,Coatzintla，Coatzintla
+3561,19,26.547696000000002,-80.07387800000001,2016-09-08T01:12:48,night,New_York,America,Clear,1517.408,True,True,True,Palm Beach County，Florida
+3562,118,29.974252000000003,-90.234544,2016-09-08T01:12:46,night,Chicago,America,Clear,570.0402,False,True,True,3，Jefferson Parish
+3563,48,41.073516999999995,-81.471109,2016-09-08T01:12:45,night,New_York,America,Clear,1361.0005,True,True,True,Akron，Summit County
+3564,13,30.14159,-90.934782,2016-09-08T01:12:44,night,Chicago,America,Clear,48.421627,False,False,False,3，Ascension Parish
+3565,16,32.935916999999996,-97.194812,2016-09-08T01:12:42,night,Chicago,America,Clear,458.58234000000004,False,True,True,Tarrant County，Texas
+3566,104,33.611683,-111.70561799999999,2016-09-08T01:12:39,night,Phoenix,America,Clear,172.27428999999998,False,False,False,Maricopa County，Arizona
+3567,17,49.26788,-123.15611299999999,2016-09-08T01:12:37,night,Vancouver,America,Clear,4842.1626,True,True,True,Vancouver，Greater Vancouver
+3568,10,46.128657000000004,-122.948347,2016-09-08T01:12:36,night,Los_Angeles,America,PartlyCloudy,1055.8982,True,True,True,Longview，Cowlitz County
+3569,43,30.141058,-90.933589,2016-09-08T01:12:35,night,Chicago,America,Clear,48.421627,False,False,False,3，Ascension Parish
+3570,16,49.828790000000005,-99.965326,2016-09-08T01:12:34,night,Winnipeg,America,LightRain,458.58234000000004,False,True,True,Division No. 7，Manitoba
+3571,19,30.141053000000003,-90.934185,2016-09-08T01:12:33,night,Chicago,America,Clear,48.421627,False,False,False,3，Ascension Parish
+3572,35,20.530685000000002,-97.45998399999999,2016-09-08T01:12:32,night,Mexico_City,America,Clear,2431.2341,True,True,True,Poza Rica，Poza Rica
+3573,14,39.416228000000004,-77.42138299999999,2016-09-08T01:12:32,night,New_York,America,Clear,849.4422599999999,True,True,True,"2, Frederick，Frederick County"
+3574,133,44.475988,-73.216398,2016-09-08T01:12:27,night,New_York,America,PartlyCloudy,591.0899,False,True,True,Burlington，Chittenden County
+3575,13,41.071269,-81.471367,2016-09-08T01:12:25,night,New_York,America,Clear,1361.0005,True,True,True,Akron，Summit County
+3576,16,26.549781,-80.073704,2016-09-08T01:12:19,night,New_York,America,Clear,1517.408,True,True,True,Palm Beach County，Florida
+3577,96,43.769937,-79.21088,2016-09-08T01:12:19,night,Toronto,America,LightRain,3249.4587,True,True,True,Scarborough，Toronto
+3578,21,41.070637,-81.471281,2016-09-08T01:12:15,night,New_York,America,Clear,1361.0005,True,True,True,Akron，Summit County
+3579,127,20.534423999999998,-97.461252,2016-09-08T01:12:12,night,Mexico_City,America,Clear,2431.2341,True,True,True,Poza Rica，Poza Rica
+3580,19,41.723728,-88.252545,2016-09-08T01:12:12,night,Chicago,America,Drizzle,913.3346,True,True,True,Aurora，Wheatland Township
+3581,19,41.727663,-88.250491,2016-09-08T01:12:11,night,Chicago,America,Drizzle,913.3346,True,True,True,Naperville Township，DuPage County
+3582,16,44.479492,-73.212643,2016-09-08T01:12:09,night,New_York,America,PartlyCloudy,591.0899,False,True,True,Burlington，Chittenden County
+3583,27,34.102557,-117.943161,2016-09-08T01:12:08,night,Los_Angeles,America,Clear,683.3539,False,True,True,Los Angeles County，California
+3584,19,48.610169,-93.397352,2016-09-08T01:12:05,night,Winnipeg,America,Rain,67.10759,False,False,False,Rainy River District，Ontario
+3585,21,38.618743,-76.965611,2016-09-08T01:11:59,night,New_York,America,PartlyCloudy,659.01855,False,True,True,"6, Waldorf，Charles County"
+3586,16,48.612733,-93.395433,2016-09-08T01:11:58,night,Winnipeg,America,Rain,67.10759,False,False,False,Rainy River District，Ontario
+3587,46,43.766096999999995,-79.20938199999999,2016-09-08T01:11:57,night,Toronto,America,LightRain,3249.4587,True,True,True,Scarborough，Toronto
+3588,48,44.474467,-73.217111,2016-09-08T01:11:56,night,New_York,America,PartlyCloudy,591.0899,False,True,True,Burlington，Chittenden County
+3589,23,20.478189999999998,-97.447812,2016-09-08T01:11:55,night,Mexico_City,America,Clear,166.13933,False,False,False,Coatzintla，Coatzintla
+3590,16,41.73059,-88.253761,2016-09-08T01:11:54,night,Chicago,America,Drizzle,913.3346,True,True,True,Naperville Township，DuPage County
+3591,14,41.725726,-88.250948,2016-09-08T01:11:54,night,Chicago,America,Drizzle,913.3346,True,True,True,Naperville Township，DuPage County
+3592,19,26.550231,-80.073616,2016-09-08T01:11:53,night,New_York,America,Clear,1517.408,True,True,True,Palm Beach County，Florida
+3593,19,49.82698,-99.957326,2016-09-08T01:11:47,night,Winnipeg,America,LightRain,458.58234000000004,False,True,True,Division No. 7，Manitoba
+3594,43,32.949669,-97.18715,2016-09-08T01:11:46,night,Chicago,America,Clear,458.58234000000004,False,True,True,Tarrant County，Texas
+3595,16,43.771643,-79.20938199999999,2016-09-08T01:11:40,night,Toronto,America,LightRain,3249.4587,True,True,True,Scarborough，Toronto
+3596,39,41.726986,-88.252012,2016-09-08T01:11:39,night,Chicago,America,Drizzle,913.3346,True,True,True,Naperville Township，DuPage County
+3597,96,43.771463,-79.209823,2016-09-08T01:11:39,night,Toronto,America,LightRain,3249.4587,True,True,True,Scarborough，Toronto
+3599,52,37.65145,-122.409871,2016-09-08T01:11:38,night,Los_Angeles,America,Clear,3022.1426,True,True,True,South San Francisco，San Mateo County
+3600,120,41.72909,-88.25224,2016-09-08T01:11:35,night,Chicago,America,Drizzle,913.3346,True,True,True,Naperville Township，DuPage County
+3601,13,39.64806,-77.70984,2016-09-08T01:11:32,night,New_York,America,Clear,1463.3706,True,True,True,"22, Hagerstown，Washington County"
+3602,129,30.042073,-90.23564300000001,2016-09-08T01:11:31,night,Chicago,America,Clear,0.0,False,False,False,Jefferson Parish，Louisiana
+3603,129,37.648747,-122.4058,2016-09-08T01:11:31,night,Los_Angeles,America,Clear,3022.1426,True,True,True,San Mateo County，California
+3604,16,37.313868,-79.923337,2016-09-08T01:11:26,night,New_York,America,Clear,343.10977,False,False,True,Virginia，United States
+3605,13,46.127871,-122.948197,2016-09-08T01:11:26,night,Los_Angeles,America,PartlyCloudy,1055.8982,True,True,True,Longview，Cowlitz County
+3606,19,37.647025,-122.405092,2016-09-08T01:11:16,night,Los_Angeles,America,Clear,3022.1426,True,True,True,San Mateo County，California
+3607,133,48.609293,-93.381842,2016-09-08T01:11:15,night,Winnipeg,America,Rain,67.10759,False,False,False,Rainy River District，Ontario
+3608,116,20.525745,-97.460829,2016-09-08T01:11:13,night,Mexico_City,America,Clear,2431.2341,True,True,True,Poza Rica，Poza Rica
+3609,69,43.773889000000004,-79.211233,2016-09-08T01:11:12,night,Toronto,America,LightRain,3249.4587,True,True,True,Scarborough，Toronto
+3610,129,39.415079999999996,-77.41672,2016-09-08T01:11:06,night,New_York,America,Clear,849.4422599999999,True,True,True,"2, Frederick，Frederick County"
+3611,19,26.550219,-80.073442,2016-09-08T01:11:02,night,New_York,America,Clear,1517.408,True,True,True,Palm Beach County，Florida
+3612,16,37.648156,-122.407482,2016-09-08T01:10:58,night,Los_Angeles,America,Clear,3022.1426,True,True,True,San Mateo County，California
+3614,19,32.940034000000004,-97.19936,2016-09-08T01:10:58,night,Chicago,America,Clear,458.58234000000004,False,True,True,Tarrant County，Texas
+3615,10,37.653919,-122.40765900000001,2016-09-08T01:10:55,night,Los_Angeles,America,Clear,3022.1426,True,True,True,South San Francisco，San Mateo County
+3616,19,30.140791999999998,-90.932843,2016-09-08T01:10:54,night,Chicago,America,Clear,48.421627,False,False,False,3，Ascension Parish
+3617,92,43.768876,-79.21449399999999,2016-09-08T01:10:51,night,Toronto,America,LightRain,3249.4587,True,True,True,Scarborough，Toronto
+3618,23,33.304105,-111.84218600000001,2016-09-08T01:10:49,night,Phoenix,America,Clear,2180.6335,True,True,True,Maricopa County，Arizona
+3619,133,32.937883,-97.195654,2016-09-08T01:10:42,night,Chicago,America,Clear,458.58234000000004,False,True,True,Tarrant County，Texas
+3620,13,48.605104,-93.433449,2016-09-08T01:10:42,night,Winnipeg,America,Rain,160.22284,False,False,False,Rainy River District，Ontario
+3621,19,39.413066,-77.411429,2016-09-08T01:10:39,night,New_York,America,Clear,849.4422599999999,True,True,True,"Frederick，2, Frederick"
+3622,19,41.729325,-88.25239300000001,2016-09-08T01:10:37,night,Chicago,America,Drizzle,913.3346,True,True,True,Naperville Township，DuPage County
+3623,13,38.620073,-76.966691,2016-09-08T01:10:33,night,New_York,America,PartlyCloudy,659.01855,False,True,True,"6, Waldorf，Charles County"
+3624,133,39.413942,-77.424521,2016-09-08T01:10:32,night,New_York,America,Clear,849.4422599999999,True,True,True,"2, Frederick，Frederick County"
+3625,16,37.648381,-122.40456100000002,2016-09-08T01:10:32,night,Los_Angeles,America,Clear,3022.1426,True,True,True,San Mateo County，California
+3626,16,44.476890999999995,-73.21257299999999,2016-09-08T01:10:30,night,New_York,America,PartlyCloudy,591.0899,False,True,True,Burlington，Chittenden County
+3627,60,20.523834,-97.460068,2016-09-08T01:10:30,night,Mexico_City,America,Clear,2431.2341,True,True,True,Poza Rica，Poza Rica
+3628,60,30.144919,-89.861434,2016-09-08T01:10:28,night,Chicago,America,Clear,0.0,False,False,False,New Orleans，Orleans Parish
+3629,16,37.647982,-122.403676,2016-09-08T01:10:27,night,Los_Angeles,America,Clear,3022.1426,True,True,True,San Mateo County，California
+3630,96,43.761480999999996,-79.21449399999999,2016-09-08T01:10:24,night,Toronto,America,LightRain,3249.4587,True,True,True,Scarborough，Toronto

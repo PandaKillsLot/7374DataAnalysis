@@ -1,0 +1,101 @@
+,pokemonId,latitude,longitude,appearedLocalTime,appearedTimeOfDay,city,continent,weather,population_density,urban,suburban,midurban,neigbour
+1254,79,39.415559,-77.422549,2016-09-08T02:14:26,night,New_York,America,Clear,849.4422599999999,True,True,True,"2, Frederick，Frederick County"
+1255,118,33.246532,-97.141533,2016-09-08T02:14:24,night,Chicago,America,Clear,1055.8982,True,True,True,Denton County，Texas
+1256,69,19.25082,-99.60599599999999,2016-09-08T02:14:24,night,Mexico_City,America,MostlyCloudy,2102.9775,True,True,True,Metepec，Metepec
+1257,19,53.62754399999999,-113.47426000000002,2016-09-08T02:14:21,night,Edmonton,America,PartlyCloudy,761.8856,False,True,True,Edmonton，Division No. 11
+1258,129,53.627472,-113.478926,2016-09-08T02:14:20,night,Edmonton,America,PartlyCloudy,761.8856,False,True,True,Edmonton，Division No. 11
+1259,19,53.630289000000005,-113.475278,2016-09-08T02:14:16,night,Edmonton,America,PartlyCloudy,761.8856,False,True,True,Edmonton，Division No. 11
+1260,19,38.976611,-77.507612,2016-09-08T02:14:15,night,New_York,America,PartlyCloudy,55.97982,False,False,False,Dulles，Loudoun County
+1261,19,33.555046000000004,-84.351946,2016-09-08T02:14:12,night,New_York,America,Clear,1018.2959599999999,True,True,True,Clayton County，Georgia
+1262,19,48.608017,-93.38525200000001,2016-09-08T02:14:10,night,Winnipeg,America,Rain,67.10759,False,False,False,Rainy River District，Ontario
+1264,16,53.609041000000005,-113.448575,2016-09-08T02:14:09,night,Edmonton,America,Clear,761.8856,False,True,True,Edmonton，Division No. 11
+1266,10,20.527788,-97.46066,2016-09-08T02:14:05,night,Mexico_City,America,Foggy,2431.2341,True,True,True,Poza Rica，Poza Rica
+1267,43,28.382306,-81.504305,2016-09-08T02:14:04,night,New_York,America,Clear,38.953922,False,False,False,Orange County，Florida
+1268,19,20.5265,-97.460491,2016-09-08T02:14:04,night,Mexico_City,America,Foggy,2431.2341,True,True,True,Poza Rica，Poza Rica
+1269,79,33.705657,-78.86299100000001,2016-09-08T02:14:03,night,New_York,America,Clear,511.28308,False,True,True,Horry County，South Carolina
+1270,133,38.973232,-77.509762,2016-09-08T02:14:03,night,New_York,America,PartlyCloudy,55.97982,False,False,False,Dulles，Loudoun County
+1271,27,26.236454,-98.203912,2016-09-08T02:14:02,night,Chicago,America,Clear,1517.408,True,True,True,Hidalgo County，Texas
+1272,48,48.608684000000004,-93.383907,2016-09-08T02:14:02,night,Winnipeg,America,Rain,67.10759,False,False,False,Rainy River District，Ontario
+1273,29,44.477971999999994,-73.215816,2016-09-08T02:14:02,night,New_York,America,Clear,591.0899,False,True,True,Burlington，Chittenden County
+1274,54,33.703388000000004,-78.86555600000001,2016-09-08T02:14:00,night,New_York,America,Clear,511.28308,False,True,True,Horry County，South Carolina
+1275,21,33.557171000000004,-84.354575,2016-09-08T02:13:59,night,New_York,America,Clear,1018.2959599999999,True,True,True,Clayton County，Georgia
+1276,16,53.630155,-113.482403,2016-09-08T02:13:59,night,Edmonton,America,PartlyCloudy,761.8856,False,True,True,Edmonton，Division No. 11
+1277,19,33.704923,-78.864406,2016-09-08T02:13:57,night,New_York,America,Clear,511.28308,False,True,True,Horry County，South Carolina
+1278,74,30.039267,-90.239528,2016-09-08T02:13:53,night,Chicago,America,Clear,0.0,False,False,False,4，Jefferson Parish
+1279,16,20.526579,-97.46294300000001,2016-09-08T02:13:52,night,Mexico_City,America,Foggy,2431.2341,True,True,True,Poza Rica，Poza Rica
+1280,16,33.24707,-97.138251,2016-09-08T02:13:49,night,Chicago,America,Clear,1055.8982,True,True,True,Denton County，Texas
+1281,16,41.725658,-88.256727,2016-09-08T02:13:48,night,Chicago,America,Clear,913.3346,True,True,True,Naperville Township，DuPage County
+1282,13,48.609407,-93.393966,2016-09-08T02:13:48,night,Winnipeg,America,Rain,67.10759,False,False,False,Rainy River District，Ontario
+1283,19,33.554662,-84.34734499999999,2016-09-08T02:13:44,night,New_York,America,Clear,1018.2959599999999,True,True,True,Georgia，United States
+1285,129,28.38125,-81.503362,2016-09-08T02:13:43,night,New_York,America,Clear,38.953922,False,False,False,Orange County，Florida
+1286,21,29.943675,-90.134033,2016-09-08T02:13:42,night,Chicago,America,Clear,982.0328,True,True,True,New Orleans，Orleans Parish
+1287,21,53.633337,-113.497725,2016-09-08T02:13:42,night,Edmonton,America,PartlyCloudy,761.8856,False,True,True,Edmonton，Division No. 11
+1288,46,41.730058,-88.259692,2016-09-08T02:13:36,night,Chicago,America,Clear,913.3346,True,True,True,Naperville Township，DuPage County
+1290,16,39.806358,-105.213219,2016-09-08T02:13:35,night,Denver,America,Clear,172.27428999999998,False,False,False,Golden，Jefferson County
+1291,133,20.525254,-97.448573,2016-09-08T02:13:33,night,Mexico_City,America,Foggy,2431.2341,True,True,True,Poza Rica，Poza Rica
+1292,54,28.380643,-81.503791,2016-09-08T02:13:32,night,New_York,America,Clear,38.953922,False,False,False,Orange County，Florida
+1293,133,20.524188,-97.45829300000001,2016-09-08T02:13:32,night,Mexico_City,America,Foggy,2431.2341,True,True,True,Poza Rica，Poza Rica
+1294,50,34.207688,-118.509615,2016-09-08T02:13:30,night,Los_Angeles,America,Clear,2710.6338,True,True,True,Los Angeles，Los Angeles County
+1295,98,20.444851999999997,-97.321996,2016-09-08T02:13:29,night,Mexico_City,America,Foggy,178.6358,False,False,False,Papantla de Olarte，Papantla
+1296,17,30.141047999999998,-90.934931,2016-09-08T02:13:28,night,Chicago,America,Clear,48.421627,False,False,False,3，Ascension Parish
+1297,43,37.195324,-93.288978,2016-09-08T02:13:28,night,Chicago,America,Clear,426.5022,False,True,True,Springfield，Springfield Township
+1298,23,33.315729,-112.058116,2016-09-08T02:13:25,night,Phoenix,America,Clear,635.5498,False,True,True,Phoenix，Maricopa County
+1299,129,30.040985,-90.238136,2016-09-08T02:13:23,night,Chicago,America,Clear,0.0,False,False,False,Jefferson Parish，Louisiana
+1300,16,33.249724,-97.142206,2016-09-08T02:13:19,night,Chicago,America,Clear,1055.8982,True,True,True,Denton County，Texas
+1301,16,41.774918,-72.718814,2016-09-08T02:13:18,night,New_York,America,Clear,1312.533,True,True,True,Hartford County，Connecticut
+1302,98,30.043244,-90.237183,2016-09-08T02:13:18,night,Chicago,America,Clear,0.0,False,False,False,Jefferson Parish，Louisiana
+1303,19,28.383232,-81.501733,2016-09-08T02:13:18,night,New_York,America,Clear,38.953922,False,False,False,Orange County，Florida
+1304,16,20.521175,-97.44874200000001,2016-09-08T02:13:18,night,Mexico_City,America,Foggy,2431.2341,True,True,True,Poza Rica，Poza Rica
+1305,56,40.079522999999995,-104.803923,2016-09-08T02:13:17,night,Denver,America,Clear,72.15521,False,False,False,Weld County，Colorado
+1306,19,40.079499,-104.804105,2016-09-08T02:13:16,night,Denver,America,Clear,72.15521,False,False,False,Weld County，Colorado
+1307,16,38.973809,-77.508418,2016-09-08T02:13:13,night,New_York,America,PartlyCloudy,55.97982,False,False,False,Dulles，Loudoun County
+1308,16,53.644408999999996,-113.503961,2016-09-08T02:13:12,night,Edmonton,America,PartlyCloudy,761.8856,False,True,True,Edmonton，Division No. 11
+1309,52,44.478128000000005,-73.21685,2016-09-08T02:13:11,night,New_York,America,Clear,591.0899,False,True,True,Burlington，Chittenden County
+1310,19,53.640708999999994,-113.49674399999999,2016-09-08T02:13:11,night,Edmonton,America,PartlyCloudy,761.8856,False,True,True,Edmonton，Division No. 11
+1311,48,44.480559,-73.215793,2016-09-08T02:13:05,night,New_York,America,Clear,591.0899,False,True,True,Burlington，Chittenden County
+1312,48,20.478426000000002,-97.450939,2016-09-08T02:13:04,night,Mexico_City,America,Foggy,166.13933,False,False,False,Coatzintla，Coatzintla
+1314,69,37.191889,-93.286226,2016-09-08T02:12:56,night,Chicago,America,Clear,426.5022,False,True,True,Springfield，Springfield Township
+1315,13,30.117683000000003,-91.04301600000001,2016-09-08T02:12:56,night,Chicago,America,Clear,10.948889999999999,False,False,False,3，Ascension Parish
+1316,13,33.705689,-78.867148,2016-09-08T02:12:54,night,New_York,America,Clear,511.28308,False,True,True,Horry County，South Carolina
+1318,19,38.973172,-77.506985,2016-09-08T02:12:50,night,New_York,America,PartlyCloudy,55.97982,False,False,False,Dulles，Loudoun County
+1319,19,34.051246,-84.26611,2016-09-08T02:12:46,night,New_York,America,Clear,761.8856,False,True,True,Fulton County，Georgia
+1320,13,19.25196,-99.6053,2016-09-08T02:12:45,night,Mexico_City,America,MostlyCloudy,2102.9775,True,True,True,Metepec，Metepec
+1321,19,30.14159,-90.934782,2016-09-08T02:12:44,night,Chicago,America,Clear,48.421627,False,False,False,3，Ascension Parish
+1322,48,26.237717,-98.204254,2016-09-08T02:12:44,night,Chicago,America,Clear,1517.408,True,True,True,Hidalgo County，Texas
+1323,16,33.555114,-84.357286,2016-09-08T02:12:42,night,New_York,America,Clear,1018.2959599999999,True,True,True,Clayton County，Georgia
+1325,14,33.246668,-97.139177,2016-09-08T02:12:41,night,Chicago,America,Clear,1055.8982,True,True,True,Denton County，Texas
+1326,116,34.051783,-84.262736,2016-09-08T02:12:39,night,New_York,America,Clear,761.8856,False,True,True,Fulton County，Georgia
+1327,21,20.44693,-97.320984,2016-09-08T02:12:38,night,Mexico_City,America,Foggy,178.6358,False,False,False,Papantla de Olarte，Papantla
+1328,74,40.078756,-104.80319300000001,2016-09-08T02:12:36,night,Denver,America,Clear,72.15521,False,False,False,Weld County，Colorado
+1329,43,30.141058,-90.933589,2016-09-08T02:12:35,night,Chicago,America,Clear,48.421627,False,False,False,3，Ascension Parish
+1330,19,30.141053000000003,-90.934185,2016-09-08T02:12:33,night,Chicago,America,Clear,48.421627,False,False,False,3，Ascension Parish
+1331,16,20.530685000000002,-97.45998399999999,2016-09-08T02:12:32,night,Mexico_City,America,Foggy,2431.2341,True,True,True,Poza Rica，Poza Rica
+1332,133,53.625751,-113.446168,2016-09-08T02:12:32,night,Edmonton,America,Clear,761.8856,False,True,True,Edmonton，Division No. 11
+1333,123,39.416228000000004,-77.42138299999999,2016-09-08T02:12:32,night,New_York,America,Clear,849.4422599999999,True,True,True,"2, Frederick，Frederick County"
+1334,16,33.555753,-84.35408199999999,2016-09-08T02:12:31,night,New_York,America,Clear,1018.2959599999999,True,True,True,Clayton County，Georgia
+1335,41,34.051945,-84.26249,2016-09-08T02:12:31,night,New_York,America,Clear,761.8856,False,True,True,Fulton County，Georgia
+1336,18,37.192212,-93.28661899999999,2016-09-08T02:12:29,night,Chicago,America,Clear,426.5022,False,True,True,Springfield，Springfield Township
+1337,46,26.236996,-98.20724399999999,2016-09-08T02:12:26,night,Chicago,America,Clear,1517.408,True,True,True,Hidalgo County，Texas
+1338,13,41.729188,-88.253609,2016-09-08T02:12:23,night,Chicago,America,Clear,913.3346,True,True,True,Naperville Township，DuPage County
+1339,13,41.726905,-88.256879,2016-09-08T02:12:23,night,Chicago,America,Clear,913.3346,True,True,True,Naperville Township，DuPage County
+1340,69,28.419559999999997,-81.58179200000001,2016-09-08T02:12:21,night,New_York,America,Clear,64.71778,False,False,False,Orange County，Florida
+1341,12,34.049788,-84.262736,2016-09-08T02:12:20,night,New_York,America,Clear,761.8856,False,True,True,Fulton County，Georgia
+1342,42,29.553595,-95.661448,2016-09-08T02:12:20,night,Chicago,America,Clear,382.54028,False,False,True,Sugar Land，Fort Bend County
+1343,21,40.053512,-76.244517,2016-09-08T02:12:16,night,New_York,America,PartlyCloudy,214.14536,False,False,True,East Lampeter Township，Lancaster County
+1344,19,30.115479999999998,-91.047728,2016-09-08T02:12:14,night,Chicago,America,Clear,10.948889999999999,False,False,False,1，Ascension Parish
+1345,16,20.525745,-97.460829,2016-09-08T02:12:13,night,Mexico_City,America,Foggy,2431.2341,True,True,True,Poza Rica，Poza Rica
+1346,19,41.723728,-88.252545,2016-09-08T02:12:12,night,Chicago,America,Clear,913.3346,True,True,True,Aurora，Wheatland Township
+1347,11,44.479492,-73.212643,2016-09-08T02:12:09,night,New_York,America,Clear,591.0899,False,True,True,Burlington，Chittenden County
+1348,41,28.381975,-81.50482,2016-09-08T02:12:07,night,New_York,America,Clear,38.953922,False,False,False,Orange County，Florida
+1349,147,28.419518,-81.581106,2016-09-08T02:12:06,night,New_York,America,Clear,64.71778,False,False,False,Florida，United States
+1350,46,20.526017,-97.4588,2016-09-08T02:12:04,night,Mexico_City,America,Foggy,2431.2341,True,True,True,Poza Rica，Poza Rica
+1351,29,48.609609999999996,-93.38704399999999,2016-09-08T02:12:03,night,Winnipeg,America,Rain,67.10759,False,False,False,Rainy River District，Ontario
+1352,56,25.726216,-100.379223,2016-09-08T02:12:01,night,Monterrey,America,Clear,2521.0115,True,True,True,Monterrey，Nuevo León
+1353,16,29.555115,-95.66605,2016-09-08T02:12:00,night,Chicago,America,Clear,382.54028,False,False,True,Sugar Land，Fort Bend County
+1354,16,19.250117000000003,-99.608866,2016-09-08T02:11:59,night,Mexico_City,America,MostlyCloudy,2102.9775,True,True,True,Espiritu Santo，Metepec
+1355,19,34.209205,-118.496022,2016-09-08T02:11:58,night,Los_Angeles,America,Clear,5597.982,True,True,True,Los Angeles，Los Angeles County
+1356,127,33.704811,-78.86697099999999,2016-09-08T02:11:58,night,New_York,America,Clear,511.28308,False,True,True,Horry County，South Carolina
+1357,21,41.773296,-72.719553,2016-09-08T02:11:57,night,New_York,America,Clear,1312.533,True,True,True,Hartford County，Connecticut
+1358,92,41.773543,-72.717244,2016-09-08T02:11:57,night,New_York,America,Clear,1312.533,True,True,True,Hartford County，Connecticut
+1359,41,20.478189999999998,-97.447812,2016-09-08T02:11:55,night,Mexico_City,America,Foggy,166.13933,False,False,False,Coatzintla，Coatzintla
+1360,46,41.725726,-88.250948,2016-09-08T02:11:54,night,Chicago,America,Clear,913.3346,True,True,True,Naperville Township，DuPage County

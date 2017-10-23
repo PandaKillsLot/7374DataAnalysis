@@ -1,0 +1,101 @@
+,pokemonId,latitude,longitude,appearedLocalTime,appearedTimeOfDay,city,continent,weather,population_density,urban,suburban,midurban,neigbour
+2169,21,41.73135,-88.257715,2016-09-08T01:47:05,night,Chicago,America,Drizzle,913.3346,True,True,True,Naperville Township，DuPage County
+2170,21,42.273512,-87.871125,2016-09-08T01:47:05,night,Chicago,America,Clear,475.51624000000004,False,True,True,Shields Township，Lake County
+2171,16,41.070576,-81.476772,2016-09-08T01:46:58,night,New_York,America,Clear,1361.0005,True,True,True,Akron，Summit County
+2172,19,33.55385,-84.35441,2016-09-08T01:46:51,night,New_York,America,Clear,1018.2959599999999,True,True,True,Clayton County，Georgia
+2173,19,42.197702,-87.916894,2016-09-08T01:46:46,night,Chicago,America,Clear,1754.2621,True,True,True,Vernon Township，Lake County
+2174,13,33.554753000000005,-84.353178,2016-09-08T01:46:45,night,New_York,America,Clear,1018.2959599999999,True,True,True,Clayton County，Georgia
+2176,120,19.25139,-99.603909,2016-09-08T01:46:44,night,Mexico_City,America,Clear,2102.9775,True,True,True,Santiaguito-Barrio-，Metepec
+2177,129,29.554628000000005,-95.669009,2016-09-08T01:46:39,night,Chicago,America,Clear,382.54028,False,False,True,Sugar Land，Fort Bend County
+2179,129,39.417388,-77.424701,2016-09-08T01:46:37,night,New_York,America,Clear,849.4422599999999,True,True,True,"2, Frederick，Frederick County"
+2180,120,33.555319,-84.352192,2016-09-08T01:46:35,night,New_York,America,Clear,1018.2959599999999,True,True,True,Clayton County，Georgia
+2181,4,25.727854999999998,-100.376766,2016-09-08T01:46:31,night,Monterrey,America,Clear,2521.0115,True,True,True,Monterrey，Monterrey
+2182,96,41.068694,-81.472482,2016-09-08T01:46:31,night,New_York,America,Clear,1361.0005,True,True,True,Akron，Summit County
+2183,16,26.551410999999998,-80.076148,2016-09-08T01:46:28,night,New_York,America,Clear,1517.408,True,True,True,Palm Beach County，Florida
+2184,16,39.408063,-77.337602,2016-09-08T01:46:27,night,New_York,America,Clear,149.01443,False,False,False,Frederick，New Market
+2185,13,33.555746,-84.35391700000001,2016-09-08T01:46:25,night,New_York,America,Clear,1018.2959599999999,True,True,True,Clayton County，Georgia
+2186,10,41.72805,-88.260605,2016-09-08T01:46:25,night,Chicago,America,Drizzle,913.3346,True,True,True,Naperville Township，DuPage County
+2187,16,41.728048,-88.260529,2016-09-08T01:46:21,night,Chicago,America,Drizzle,913.3346,True,True,True,Naperville Township，DuPage County
+2188,16,38.973769,-77.502863,2016-09-08T01:46:16,night,New_York,America,PartlyCloudy,55.97982,False,False,False,Dulles，Loudoun County
+2189,48,48.607957,-93.392635,2016-09-08T01:46:12,night,Winnipeg,America,Rain,67.10759,False,False,False,Rainy River District，Ontario
+2190,35,41.072502,-81.47008000000001,2016-09-08T01:46:05,night,New_York,America,Clear,1361.0005,True,True,True,Akron，Summit County
+2191,35,41.068821,-81.474198,2016-09-08T01:46:05,night,New_York,America,Clear,1361.0005,True,True,True,Akron，Summit County
+2192,16,26.547411,-80.077632,2016-09-08T01:46:04,night,New_York,America,Clear,1517.408,True,True,True,Palm Beach County，Florida
+2194,41,41.070267,-81.466305,2016-09-08T01:45:50,night,New_York,America,Clear,1361.0005,True,True,True,Akron，Summit County
+2195,21,30.002965999999997,-90.182828,2016-09-08T01:45:49,night,Chicago,America,Clear,0.0,False,False,False,5，Jefferson Parish
+2197,23,25.728645999999998,-100.37975,2016-09-08T01:45:46,night,Monterrey,America,Clear,2521.0115,True,True,True,Monterrey，Monterrey
+2198,19,39.426382000000004,-77.406407,2016-09-08T01:45:45,night,New_York,America,Clear,849.4422599999999,True,True,True,Frederick County，Maryland
+2200,13,41.580602,-87.794124,2016-09-08T01:45:42,night,Chicago,America,Clear,849.4422599999999,True,True,True,Orland Township，Cook County
+2203,74,34.111782,-117.942154,2016-09-08T01:45:34,night,Los_Angeles,America,Clear,683.3539,False,True,True,California，United States
+2204,74,25.726576,-100.379311,2016-09-08T01:45:33,night,Monterrey,America,Clear,2521.0115,True,True,True,Monterrey，Nuevo León
+2205,19,40.078314,-104.802373,2016-09-08T01:45:31,night,Denver,America,Clear,72.15521,False,False,False,Weld County，Colorado
+2206,16,41.726753,-88.252012,2016-09-08T01:45:30,night,Chicago,America,Drizzle,913.3346,True,True,True,Naperville Township，DuPage County
+2207,16,20.530234,-97.43817800000001,2016-09-08T01:45:30,night,Mexico_City,America,Clear,2431.2341,True,True,True,Poza Rica，Poza Rica
+2209,19,33.555122999999995,-84.349809,2016-09-08T01:45:23,night,New_York,America,Clear,1018.2959599999999,True,True,True,Clayton County，Georgia
+2210,64,41.724337,-88.256803,2016-09-08T01:45:22,night,Chicago,America,Drizzle,913.3346,True,True,True,Wheatland Township，Will County
+2211,27,25.7244,-100.376503,2016-09-08T01:45:19,night,Monterrey,America,Clear,2521.0115,True,True,True,Monterrey，Monterrey
+2212,13,29.938933000000002,-90.075224,2016-09-08T01:45:19,night,Chicago,America,Clear,1955.8636,True,True,True,Orleans Parish，Louisiana
+2213,19,39.7319,-104.98493300000001,2016-09-08T01:45:19,night,Denver,America,Clear,2521.0115,True,True,True,Denver，Denver County
+2215,21,38.973380999999996,-77.50743299999999,2016-09-08T01:45:04,night,New_York,America,PartlyCloudy,55.97982,False,False,False,Dulles，Loudoun County
+2216,41,41.066925,-81.470766,2016-09-08T01:45:04,night,New_York,America,Clear,1361.0005,True,True,True,Akron，Summit County
+2217,19,38.973184,-77.509314,2016-09-08T01:45:03,night,New_York,America,PartlyCloudy,55.97982,False,False,False,Dulles，Loudoun County
+2218,16,41.07445,-81.469994,2016-09-08T01:45:01,night,New_York,America,Clear,1361.0005,True,True,True,Akron，Summit County
+2219,16,25.725217,-100.37913499999999,2016-09-08T01:45:01,night,Monterrey,America,Clear,2521.0115,True,True,True,Monterrey，Monterrey
+2220,46,44.458653999999996,-73.21086899999999,2016-09-08T01:45:00,night,New_York,America,PartlyCloudy,591.0899,False,True,True,Burlington，Chittenden County
+2221,19,20.535918,-97.441558,2016-09-08T01:44:59,night,Mexico_City,America,Clear,2431.2341,True,True,True,Poza Rica，Poza Rica
+2222,69,41.074016,-81.47256800000001,2016-09-08T01:44:59,night,New_York,America,Clear,1361.0005,True,True,True,Akron，Summit County
+2223,41,44.459941,-73.207633,2016-09-08T01:44:56,night,New_York,America,PartlyCloudy,591.0899,False,True,True,Burlington，Chittenden County
+2224,21,39.416297,-77.422011,2016-09-08T01:44:51,night,New_York,America,Clear,849.4422599999999,True,True,True,"2, Frederick，Frederick County"
+2225,16,41.729908,-88.254902,2016-09-08T01:44:49,night,Chicago,America,Drizzle,913.3346,True,True,True,Naperville Township，DuPage County
+2227,19,38.977678999999995,-77.509314,2016-09-08T01:44:43,night,New_York,America,PartlyCloudy,55.97982,False,False,False,Dulles，Loudoun County
+2230,19,38.973063,-77.506716,2016-09-08T01:44:35,night,New_York,America,PartlyCloudy,55.97982,False,False,False,Dulles，Loudoun County
+2231,98,26.549781,-80.073704,2016-09-08T01:44:30,night,New_York,America,Clear,1517.408,True,True,True,Palm Beach County，Florida
+2232,90,42.349493,-71.064494,2016-09-08T01:44:30,night,New_York,America,Clear,5597.982,True,True,True,Boston，Suffolk County
+2233,32,33.556368,-84.354164,2016-09-08T01:44:30,night,New_York,America,Clear,1018.2959599999999,True,True,True,Clayton County，Georgia
+2235,74,25.726986,-100.381241,2016-09-08T01:44:27,night,Monterrey,America,Clear,2521.0115,True,True,True,Monterrey，Monterrey
+2236,16,39.733047,-104.98639399999999,2016-09-08T01:44:24,night,Denver,America,Clear,2521.0115,True,True,True,Denver，Denver County
+2240,96,44.479206,-73.212713,2016-09-08T01:44:17,night,New_York,America,PartlyCloudy,591.0899,False,True,True,Burlington，Chittenden County
+2241,21,48.612832,-93.39473199999999,2016-09-08T01:44:16,night,Winnipeg,America,Rain,67.10759,False,False,False,Rainy River District，Ontario
+2242,46,42.351107,-71.060037,2016-09-08T01:44:15,night,New_York,America,Clear,5597.982,True,True,True,Boston，Suffolk County
+2243,74,40.079364,-104.802737,2016-09-08T01:44:14,night,Denver,America,Clear,72.15521,False,False,False,Weld County，Colorado
+2244,23,33.555046000000004,-84.351946,2016-09-08T01:44:12,night,New_York,America,Clear,1018.2959599999999,True,True,True,Clayton County，Georgia
+2245,16,48.611013,-93.39531600000001,2016-09-08T01:44:12,night,Winnipeg,America,Rain,67.10759,False,False,False,Rainy River District，Ontario
+2246,19,33.553581,-84.35424599999999,2016-09-08T01:44:11,night,New_York,America,Clear,1018.2959599999999,True,True,True,Clayton County，Georgia
+2247,19,42.351745,-71.066816,2016-09-08T01:44:08,night,New_York,America,Clear,5597.982,True,True,True,Suffolk County，Massachusetts
+2248,133,34.900048999999996,-77.52561999999999,2016-09-08T01:44:02,night,New_York,America,Clear,40.392357000000004,False,False,False,Richlands，Onslow County
+2251,16,25.725989000000002,-100.379837,2016-09-08T01:43:57,night,Monterrey,America,Clear,2521.0115,True,True,True,Monterrey，Nuevo León
+2252,120,30.152313,-89.857339,2016-09-08T01:43:56,night,Chicago,America,Clear,0.0,False,False,False,Orleans Parish，Louisiana
+2253,13,39.651540999999995,-77.70599399999999,2016-09-08T01:43:54,night,New_York,America,Clear,1463.3706,True,True,True,"21, Hagerstown，Washington County"
+2254,21,41.072796000000004,-81.469822,2016-09-08T01:43:52,night,New_York,America,Clear,1361.0005,True,True,True,Akron，Summit County
+2256,116,34.899569,-77.525083,2016-09-08T01:43:45,night,New_York,America,Clear,40.392357000000004,False,False,False,Richlands，Onslow County
+2258,41,44.463609999999996,-73.208903,2016-09-08T01:43:39,night,New_York,America,PartlyCloudy,591.0899,False,True,True,Burlington，Chittenden County
+2259,19,30.002694,-90.184146,2016-09-08T01:43:38,night,Chicago,America,Clear,0.0,False,False,False,5，Jefferson Parish
+2262,43,39.651074,-77.70608299999999,2016-09-08T01:43:28,night,New_York,America,Clear,1463.3706,True,True,True,"21, Hagerstown，Washington County"
+2263,77,50.707003,-120.39575500000001,2016-09-08T01:43:28,night,Vancouver,America,Clear,143.7078,False,False,False,Kamloops，Thompson-Nicola
+2264,13,33.555057,-84.352192,2016-09-08T01:43:25,night,New_York,America,Clear,1018.2959599999999,True,True,True,Clayton County，Georgia
+2265,129,29.553552000000003,-95.66670699999999,2016-09-08T01:43:20,night,Chicago,America,Clear,382.54028,False,False,True,Sugar Land，Fort Bend County
+2266,16,39.426759999999994,-77.406228,2016-09-08T01:43:20,night,New_York,America,Clear,849.4422599999999,True,True,True,"2, Frederick，Frederick County"
+2267,19,40.078924,-104.803102,2016-09-08T01:43:13,night,Denver,America,Clear,72.15521,False,False,False,Weld County，Colorado
+2268,48,39.408262,-77.337243,2016-09-08T01:43:11,night,New_York,America,Clear,149.01443,False,False,False,Frederick，New Market
+2269,16,39.651652,-77.705547,2016-09-08T01:43:06,night,New_York,America,Clear,1463.3706,True,True,True,"21, Hagerstown，Washington County"
+2271,13,42.355173,-71.06384399999999,2016-09-08T01:43:01,night,New_York,America,Clear,5597.982,True,True,True,Massachusetts，United States
+2272,104,25.725873,-100.382733,2016-09-08T01:42:58,night,Monterrey,America,Clear,2521.0115,True,True,True,Monterrey，Monterrey
+2273,19,29.554876,-95.66530999999999,2016-09-08T01:42:57,night,Chicago,America,Clear,382.54028,False,False,True,Texas，United States
+2275,14,44.466322,-73.207265,2016-09-08T01:42:50,night,New_York,America,PartlyCloudy,591.0899,False,True,True,Burlington，Chittenden County
+2276,19,42.355638,-71.065702,2016-09-08T01:42:50,night,New_York,America,Clear,5597.982,True,True,True,Boston，Suffolk County
+2277,16,39.411839,-77.33643599999999,2016-09-08T01:42:46,night,New_York,America,Clear,149.01443,False,False,False,Frederick，New Market
+2278,16,39.6517,-77.70599399999999,2016-09-08T01:42:45,night,New_York,America,Clear,1463.3706,True,True,True,"21, Hagerstown，Washington County"
+2280,124,41.072489000000004,-81.46990799999999,2016-09-08T01:42:43,night,New_York,America,Clear,1361.0005,True,True,True,Akron，Summit County
+2281,43,39.409968,-77.334641,2016-09-08T01:42:41,night,New_York,America,Clear,149.01443,False,False,False,Frederick，New Market
+2282,16,32.930234000000006,-84.33658,2016-09-08T01:42:39,night,New_York,America,Clear,86.49835999999999,False,False,False,Upson County，Georgia
+2283,19,42.197615,-87.91635699999999,2016-09-08T01:42:36,night,Chicago,America,Clear,1754.2621,True,True,True,Vernon Township，Lake County
+2284,35,37.800993,-122.40933999999999,2016-09-08T01:42:36,night,Los_Angeles,America,Clear,570.0402,False,True,True,San Francisco，San Francisco County
+2286,10,38.975137,-77.507343,2016-09-08T01:42:34,night,New_York,America,PartlyCloudy,55.97982,False,False,False,Dulles，Loudoun County
+2287,13,48.608574,-93.392976,2016-09-08T01:42:28,night,Winnipeg,America,Rain,67.10759,False,False,False,Rainy River District，Ontario
+2288,19,38.973625,-77.506716,2016-09-08T01:42:27,night,New_York,America,PartlyCloudy,55.97982,False,False,False,Dulles，Loudoun County
+2289,17,39.426575,-77.403807,2016-09-08T01:42:25,night,New_York,America,Clear,849.4422599999999,True,True,True,"2, Frederick，Frederick County"
+2291,7,44.463794,-73.210124,2016-09-08T01:42:23,night,New_York,America,PartlyCloudy,591.0899,False,True,True,Burlington，Chittenden County
+2292,13,41.729188,-88.253609,2016-09-08T01:42:23,night,Chicago,America,Drizzle,913.3346,True,True,True,Naperville Township，DuPage County
+2293,133,44.47625,-73.214702,2016-09-08T01:42:22,night,New_York,America,PartlyCloudy,591.0899,False,True,True,Burlington，Chittenden County
+2294,19,48.61176,-93.388548,2016-09-08T01:42:21,night,Winnipeg,America,Rain,67.10759,False,False,False,Rainy River District，Ontario
+2295,16,42.352934999999995,-71.064216,2016-09-08T01:42:20,night,New_York,America,Clear,5597.982,True,True,True,Boston，Suffolk County

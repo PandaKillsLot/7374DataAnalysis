@@ -1,0 +1,101 @@
+,pokemonId,latitude,longitude,appearedLocalTime,appearedTimeOfDay,city,continent,weather,population_density,urban,suburban,midurban,neigbour
+1703,19,48.608603,-93.383986,2016-09-08T02:02:44,night,Winnipeg,America,Rain,67.10759,False,False,False,Rainy River District，Ontario
+1705,13,33.555594,-84.348659,2016-09-08T02:02:36,night,New_York,America,Clear,1018.2959599999999,True,True,True,Clayton County，Georgia
+1706,16,25.963009,-97.50936899999999,2016-09-08T02:02:36,night,Chicago,America,Clear,111.49209599999999,False,False,False,Cameron County，Texas
+1707,43,20.525603,-97.459815,2016-09-08T02:02:33,night,Mexico_City,America,Foggy,2431.2341,True,True,True,Poza Rica，Poza Rica
+1708,48,26.234764000000002,-98.20621899999999,2016-09-08T02:02:33,night,Chicago,America,Clear,1517.408,True,True,True,Hidalgo County，Texas
+1709,16,37.19533,-93.288742,2016-09-08T02:02:32,night,Chicago,America,Clear,426.5022,False,True,True,Springfield，Springfield Township
+1710,46,34.109403,-117.94270300000001,2016-09-08T02:02:31,night,Los_Angeles,America,Clear,683.3539,False,True,True,California，United States
+1711,19,39.418729,-77.420935,2016-09-08T02:02:29,night,New_York,America,Clear,849.4422599999999,True,True,True,"2, Frederick，Frederick County"
+1713,16,19.252797,-99.60860500000001,2016-09-08T02:02:28,night,Mexico_City,America,MostlyCloudy,2102.9775,True,True,True,Metepec，Metepec
+1714,19,20.443079,-97.322333,2016-09-08T02:02:28,night,Mexico_City,America,Foggy,178.6358,False,False,False,Papantla de Olarte，Papantla
+1715,41,20.526944,-97.456603,2016-09-08T02:02:26,night,Mexico_City,America,Foggy,2431.2341,True,True,True,Poza Rica，Poza Rica
+1716,41,44.478572,-73.211455,2016-09-08T02:02:26,night,New_York,America,Clear,591.0899,False,True,True,Burlington，Chittenden County
+1717,13,42.253318,-87.874116,2016-09-08T02:02:24,night,Chicago,America,Clear,475.51624000000004,False,True,True,Shields Township，Lake County
+1719,16,41.728173,-88.258476,2016-09-08T02:02:22,night,Chicago,America,Clear,913.3346,True,True,True,Naperville Township，DuPage County
+1720,13,41.727976,-88.250567,2016-09-08T02:02:18,night,Chicago,America,Clear,913.3346,True,True,True,Naperville Township，DuPage County
+1721,129,29.288495,-94.789266,2016-09-08T02:02:16,night,Chicago,America,Clear,0.0,False,False,False,Galveston County，Texas
+1722,37,42.355256,-71.067373,2016-09-08T02:02:14,night,New_York,America,Overcast,5597.982,True,True,True,Suffolk County，Massachusetts
+1723,74,25.725744,-100.38325999999999,2016-09-08T02:02:14,night,Monterrey,America,Clear,2521.0115,True,True,True,Monterrey，Monterrey
+1724,19,40.078604,-104.802555,2016-09-08T02:02:13,night,Denver,America,Clear,72.15521,False,False,False,Weld County，Colorado
+1725,16,42.353928,-71.061337,2016-09-08T02:02:10,night,New_York,America,Overcast,5597.982,True,True,True,Boston，Suffolk County
+1727,19,29.550461,-95.665064,2016-09-08T02:02:08,night,Chicago,America,Clear,382.54028,False,False,True,Sugar Land，Fort Bend County
+1728,16,40.079542,-104.804379,2016-09-08T02:02:08,night,Denver,America,Clear,72.15521,False,False,False,Weld County，Colorado
+1729,41,44.480283,-73.212986,2016-09-08T02:02:06,night,New_York,America,Clear,591.0899,False,True,True,Burlington，Chittenden County
+1730,27,29.291232,-94.7887,2016-09-08T02:02:06,night,Chicago,America,Clear,0.0,False,False,False,Galveston County，Texas
+1731,13,44.477784,-73.211624,2016-09-08T02:02:04,night,New_York,America,Clear,591.0899,False,True,True,Burlington，Chittenden County
+1733,23,25.726197,-100.379486,2016-09-08T02:01:58,night,Monterrey,America,Clear,2521.0115,True,True,True,Monterrey，Nuevo León
+1734,48,19.252889,-99.60860500000001,2016-09-08T02:01:52,night,Mexico_City,America,MostlyCloudy,2102.9775,True,True,True,Metepec，Metepec
+1735,98,20.529618,-97.458969,2016-09-08T02:01:52,night,Mexico_City,America,Foggy,2431.2341,True,True,True,Poza Rica，Poza Rica
+1736,19,42.354253,-71.068023,2016-09-08T02:01:52,night,New_York,America,Overcast,5597.982,True,True,True,Suffolk County，Massachusetts
+1737,16,20.446995,-97.321658,2016-09-08T02:01:50,night,Mexico_City,America,Foggy,178.6358,False,False,False,Papantla de Olarte，Papantla
+1738,19,42.19793,-87.916741,2016-09-08T02:01:50,night,Chicago,America,Clear,1754.2621,True,True,True,Vernon Township，Lake County
+1739,46,33.556754999999995,-84.353096,2016-09-08T02:01:49,night,New_York,America,Clear,1018.2959599999999,True,True,True,Clayton County，Georgia
+1740,147,39.417689,-77.423804,2016-09-08T02:01:49,night,New_York,America,Clear,849.4422599999999,True,True,True,"2, Frederick，Frederick County"
+1741,27,25.727531,-100.380013,2016-09-08T02:01:48,night,Monterrey,America,Clear,2521.0115,True,True,True,Monterrey，Nuevo León
+1742,19,29.285325,-94.789266,2016-09-08T02:01:48,night,Chicago,America,Clear,0.0,False,False,False,Galveston County，Texas
+1743,98,19.254595000000002,-99.607649,2016-09-08T02:01:45,night,Mexico_City,America,MostlyCloudy,2102.9775,True,True,True,Metepec，Metepec
+1744,69,44.461963,-73.211229,2016-09-08T02:01:45,night,New_York,America,Clear,591.0899,False,True,True,Burlington，Chittenden County
+1746,13,33.556065000000004,-84.35325999999999,2016-09-08T02:01:39,night,New_York,America,Clear,1018.2959599999999,True,True,True,Clayton County，Georgia
+1748,92,44.476277,-73.21243,2016-09-08T02:01:38,night,New_York,America,Clear,591.0899,False,True,True,Burlington，Chittenden County
+1749,70,20.537146,-97.453898,2016-09-08T02:01:36,night,Mexico_City,America,Foggy,2431.2341,True,True,True,Poza Rica，Poza Rica
+1750,19,29.944036999999998,-90.133521,2016-09-08T02:01:36,night,Chicago,America,Clear,982.0328,True,True,True,New Orleans，Orleans Parish
+1751,13,20.522851,-97.461421,2016-09-08T02:01:35,night,Mexico_City,America,Foggy,2431.2341,True,True,True,Poza Rica，Poza Rica
+1752,19,48.610638,-93.389393,2016-09-08T02:01:35,night,Winnipeg,America,Rain,67.10759,False,False,False,Rainy River District，Ontario
+1754,13,44.460547999999996,-73.206754,2016-09-08T02:01:33,night,New_York,America,Clear,591.0899,False,True,True,Burlington，Chittenden County
+1755,16,40.078568,-104.802829,2016-09-08T02:01:29,night,Denver,America,Clear,72.15521,False,False,False,Weld County，Colorado
+1756,13,44.482085999999995,-73.209232,2016-09-08T02:01:29,night,New_York,America,Clear,591.0899,False,True,True,Burlington，Chittenden County
+1757,96,42.353478,-71.070437,2016-09-08T02:01:26,night,New_York,America,Overcast,5597.982,True,True,True,Boston，Suffolk County
+1758,13,42.251844,-87.873502,2016-09-08T02:01:26,night,Chicago,America,Clear,475.51624000000004,False,True,True,Shields Township，Lake County
+1759,58,29.287373,-94.790237,2016-09-08T02:01:26,night,Chicago,America,Clear,0.0,False,False,False,Galveston County，Texas
+1761,133,42.355713,-71.065702,2016-09-08T02:01:22,night,New_York,America,Overcast,5597.982,True,True,True,Boston，Suffolk County
+1762,77,33.315404,-112.054484,2016-09-08T02:01:22,night,Phoenix,America,Clear,635.5498,False,True,True,Phoenix，Maricopa County
+1764,16,40.080076,-104.80328399999999,2016-09-08T02:01:18,night,Denver,America,Clear,72.15521,False,False,False,Weld County，Colorado
+1765,13,41.723712,-88.256651,2016-09-08T02:01:14,night,Chicago,America,Clear,913.3346,True,True,True,Wheatland Township，Will County
+1766,19,20.52523,-97.459899,2016-09-08T02:01:13,night,Mexico_City,America,Foggy,2431.2341,True,True,True,Poza Rica，Poza Rica
+1767,19,41.729676,-88.25497800000001,2016-09-08T02:01:11,night,Chicago,America,Clear,913.3346,True,True,True,Naperville Township，DuPage County
+1768,63,40.081496,-104.802008,2016-09-08T02:01:09,night,Denver,America,Clear,72.15521,False,False,False,Weld County，Colorado
+1769,13,42.196663,-87.919116,2016-09-08T02:01:08,night,Chicago,America,Clear,1754.2621,True,True,True,Vernon Township，Lake County
+1770,138,39.806585999999996,-105.209745,2016-09-08T02:01:03,night,Denver,America,Clear,172.27428999999998,False,False,False,Colorado，United States
+1771,7,20.519676,-97.449164,2016-09-08T02:01:01,night,Mexico_City,America,Foggy,2431.2341,True,True,True,Poza Rica，Poza Rica
+1772,100,29.287737,-94.792746,2016-09-08T02:00:56,night,Chicago,America,Clear,0.0,False,False,False,Galveston County，Texas
+1773,16,33.555805,-84.34948100000001,2016-09-08T02:00:55,night,New_York,America,Clear,1018.2959599999999,True,True,True,Clayton County，Georgia
+1774,29,37.189762,-93.287563,2016-09-08T02:00:53,night,Chicago,America,Clear,426.5022,False,True,True,Springfield，Springfield Township
+1775,10,39.414171,-77.424432,2016-09-08T02:00:53,night,New_York,America,Clear,849.4422599999999,True,True,True,"2, Frederick，Frederick County"
+1776,21,26.236348,-98.20416800000001,2016-09-08T02:00:52,night,Chicago,America,Clear,1517.408,True,True,True,Hidalgo County，Texas
+1777,96,42.353427,-71.065794,2016-09-08T02:00:51,night,New_York,America,Overcast,5597.982,True,True,True,Suffolk County，Massachusetts
+1778,41,44.479378000000004,-73.211892,2016-09-08T02:00:50,night,New_York,America,Clear,591.0899,False,True,True,Burlington，Chittenden County
+1781,19,33.553872,-84.35490300000001,2016-09-08T02:00:45,night,New_York,America,Clear,1018.2959599999999,True,True,True,Clayton County，Georgia
+1783,17,40.054299,-76.244517,2016-09-08T02:00:42,night,New_York,America,PartlyCloudy,214.14536,False,False,True,East Lampeter Township，Lancaster County
+1785,48,42.354292,-71.064773,2016-09-08T02:00:35,night,New_York,America,Overcast,5597.982,True,True,True,Boston，Suffolk County
+1786,19,40.055779,-76.24506099999999,2016-09-08T02:00:34,night,New_York,America,PartlyCloudy,214.14536,False,False,True,East Lampeter Township，Lancaster County
+1787,16,19.251717000000003,-99.606431,2016-09-08T02:00:32,night,Mexico_City,America,MostlyCloudy,2102.9775,True,True,True,Espiritu Santo，Metepec
+1788,23,20.538022,-97.457194,2016-09-08T02:00:30,night,Mexico_City,America,Foggy,2431.2341,True,True,True,Poza Rica，Poza Rica
+1789,69,20.526512,-97.45804,2016-09-08T02:00:30,night,Mexico_City,America,Foggy,2431.2341,True,True,True,Poza Rica，Poza Rica
+1790,16,39.057083,-77.514421,2016-09-08T02:00:26,night,New_York,America,PartlyCloudy,296.7843,False,False,True,Broad Run，Loudoun County
+1792,41,29.287458,-94.790399,2016-09-08T02:00:23,night,Chicago,America,Clear,0.0,False,False,False,Galveston County，Texas
+1794,16,29.558039,-95.667365,2016-09-08T02:00:22,night,Chicago,America,Clear,382.54028,False,False,True,Sugar Land，Fort Bend County
+1796,48,20.436814000000002,-97.315079,2016-09-08T02:00:21,night,Mexico_City,America,Foggy,178.6358,False,False,False,Papantla，Veracruz
+1797,133,19.2523,-99.605822,2016-09-08T02:00:18,night,Mexico_City,America,MostlyCloudy,2102.9775,True,True,True,Metepec，Metepec
+1799,56,33.311046000000005,-112.059979,2016-09-08T02:00:16,night,Phoenix,America,Clear,635.5498,False,True,True,Phoenix，Maricopa County
+1800,48,39.417342,-77.422818,2016-09-08T02:00:13,night,New_York,America,Clear,849.4422599999999,True,True,True,"2, Frederick，Frederick County"
+1801,43,40.055102000000005,-76.242707,2016-09-08T02:00:12,night,New_York,America,PartlyCloudy,214.14536,False,False,True,East Lampeter Township，Lancaster County
+1802,13,20.521478,-97.452461,2016-09-08T02:00:12,night,Mexico_City,America,Foggy,2431.2341,True,True,True,Poza Rica，Poza Rica
+1803,13,20.525578,-97.460406,2016-09-08T02:00:11,night,Mexico_City,America,Foggy,2431.2341,True,True,True,Poza Rica，Poza Rica
+1804,23,33.309781,-112.052434,2016-09-08T02:00:10,night,Phoenix,America,Clear,635.5498,False,True,True,Phoenix，Maricopa County
+1805,41,39.056232,-77.51693,2016-09-08T02:00:08,night,New_York,America,PartlyCloudy,296.7843,False,False,True,Broad Run，Loudoun County
+1806,133,26.238234000000002,-98.209636,2016-09-08T02:00:06,night,Chicago,America,Clear,1517.408,True,True,True,Hidalgo County，Texas
+1807,19,39.412901,-77.421562,2016-09-08T02:00:05,night,New_York,America,Clear,849.4422599999999,True,True,True,"2, Frederick，Frederick County"
+1808,21,39.419776,-77.420307,2016-09-08T02:00:04,night,New_York,America,Clear,849.4422599999999,True,True,True,"2, Frederick，Frederick County"
+1809,19,33.556416999999996,-84.353342,2016-09-08T02:00:03,night,New_York,America,Clear,1018.2959599999999,True,True,True,Clayton County，Georgia
+1810,16,19.252782999999997,-99.60364799999999,2016-09-08T02:00:00,night,Mexico_City,America,MostlyCloudy,2102.9775,True,True,True,Metepec，Metepec
+1811,37,42.355734000000005,-71.066259,2016-09-08T01:59:58,night,New_York,America,Clear,5597.982,True,True,True,Suffolk County，Massachusetts
+1812,37,42.354931,-71.068951,2016-09-08T01:59:55,night,New_York,America,Clear,5597.982,True,True,True,Suffolk County，Massachusetts
+1815,13,19.254157,-99.601996,2016-09-08T01:59:53,night,Mexico_City,America,Clear,2102.9775,True,True,True,Santa Cruz-Barrio-，Metepec
+1816,13,33.555012,-84.356957,2016-09-08T01:59:53,night,New_York,America,Clear,1018.2959599999999,True,True,True,Clayton County，Georgia
+1817,21,40.053412,-76.24759499999999,2016-09-08T01:59:48,night,New_York,America,PartlyCloudy,214.14536,False,False,True,East Lampeter Township，Lancaster County
+1818,13,20.443371,-97.321996,2016-09-08T01:59:46,night,Mexico_City,America,Clear,178.6358,False,False,False,Papantla de Olarte，Papantla
+1819,32,44.461178000000004,-73.211908,2016-09-08T01:59:45,night,New_York,America,PartlyCloudy,591.0899,False,True,True,Burlington，Chittenden County
+1820,48,37.195130999999996,-93.28992099999999,2016-09-08T01:59:44,night,Chicago,America,Clear,426.5022,False,True,True,Springfield，Springfield Township
+1821,98,44.476355,-73.209513,2016-09-08T01:59:44,night,New_York,America,PartlyCloudy,591.0899,False,True,True,Burlington，Chittenden County
+1825,129,20.523566,-97.457701,2016-09-08T01:59:40,night,Mexico_City,America,Clear,2431.2341,True,True,True,Poza Rica，Poza Rica
